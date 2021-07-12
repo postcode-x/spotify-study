@@ -1,0 +1,3657 @@
+{
+   "year": 1987,
+   "data": [
+      {
+         "id": "1Jwc3ODLQxtbnS8M9TflSP",
+         "name": "Walk Like an Egyptian",
+         "popularity": 63,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
+               },
+               "href": "https://api.spotify.com/v1/artists/51l0uqRxGaczYr4271pVIC",
+               "id": "51l0uqRxGaczYr4271pVIC",
+               "name": "The Bangles",
+               "type": "artist",
+               "uri": "spotify:artist:51l0uqRxGaczYr4271pVIC"
+            }
+         ],
+         "features": {
+            "danceability": 0.724,
+            "energy": 0.891,
+            "key": 11,
+            "loudness": -7.818,
+            "mode": 1,
+            "speechiness": 0.0995,
+            "acousticness": 0.00344,
+            "instrumentalness": 4.72e-05,
+            "liveness": 0.3,
+            "valence": 0.818,
+            "tempo": 103.022,
+            "type": "audio_features",
+            "id": "1Jwc3ODLQxtbnS8M9TflSP",
+            "uri": "spotify:track:1Jwc3ODLQxtbnS8M9TflSP",
+            "track_href": "https://api.spotify.com/v1/tracks/1Jwc3ODLQxtbnS8M9TflSP",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/1Jwc3ODLQxtbnS8M9TflSP",
+            "duration_ms": 204707,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "54b8qPFqYqIndfdxiLApea",
+         "name": "Alone",
+         "popularity": 73,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+               },
+               "href": "https://api.spotify.com/v1/artists/34jw2BbxjoYalTp8cJFCPv",
+               "id": "34jw2BbxjoYalTp8cJFCPv",
+               "name": "Heart",
+               "type": "artist",
+               "uri": "spotify:artist:34jw2BbxjoYalTp8cJFCPv"
+            }
+         ],
+         "features": {
+            "danceability": 0.418,
+            "energy": 0.452,
+            "key": 1,
+            "loudness": -13.099,
+            "mode": 1,
+            "speechiness": 0.0356,
+            "acousticness": 0.638,
+            "instrumentalness": 0.00026,
+            "liveness": 0.0959,
+            "valence": 0.168,
+            "tempo": 175.088,
+            "type": "audio_features",
+            "id": "54b8qPFqYqIndfdxiLApea",
+            "uri": "spotify:track:54b8qPFqYqIndfdxiLApea",
+            "track_href": "https://api.spotify.com/v1/tracks/54b8qPFqYqIndfdxiLApea",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/54b8qPFqYqIndfdxiLApea",
+            "duration_ms": 218733,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "4RiagUUJVbGgQpo9S86Wn6",
+         "name": "Shake You Down - Single Version",
+         "popularity": 33,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6zdcmro5vDQSUjeioajL2r"
+               },
+               "href": "https://api.spotify.com/v1/artists/6zdcmro5vDQSUjeioajL2r",
+               "id": "6zdcmro5vDQSUjeioajL2r",
+               "name": "Gregory Abbott",
+               "type": "artist",
+               "uri": "spotify:artist:6zdcmro5vDQSUjeioajL2r"
+            }
+         ],
+         "features": {
+            "danceability": 0.787,
+            "energy": 0.425,
+            "key": 11,
+            "loudness": -12.178,
+            "mode": 0,
+            "speechiness": 0.0278,
+            "acousticness": 0.502,
+            "instrumentalness": 0,
+            "liveness": 0.195,
+            "valence": 0.819,
+            "tempo": 94.944,
+            "type": "audio_features",
+            "id": "4RiagUUJVbGgQpo9S86Wn6",
+            "uri": "spotify:track:4RiagUUJVbGgQpo9S86Wn6",
+            "track_href": "https://api.spotify.com/v1/tracks/4RiagUUJVbGgQpo9S86Wn6",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4RiagUUJVbGgQpo9S86Wn6",
+            "duration_ms": 245973,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "7yqU5HODQU91zj8ahUaUX1",
+         "name": "I Wanna Dance with Somebody (Who Loves Me)",
+         "popularity": 0,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+               },
+               "href": "https://api.spotify.com/v1/artists/6XpaIBNiVzIetEPCWDvAFP",
+               "id": "6XpaIBNiVzIetEPCWDvAFP",
+               "name": "Whitney Houston",
+               "type": "artist",
+               "uri": "spotify:artist:6XpaIBNiVzIetEPCWDvAFP"
+            }
+         ],
+         "features": {
+            "danceability": 0.709,
+            "energy": 0.824,
+            "key": 1,
+            "loudness": -8.824,
+            "mode": 1,
+            "speechiness": 0.0453,
+            "acousticness": 0.207,
+            "instrumentalness": 0.000307,
+            "liveness": 0.0888,
+            "valence": 0.867,
+            "tempo": 118.814,
+            "type": "audio_features",
+            "id": "7yqU5HODQU91zj8ahUaUX1",
+            "uri": "spotify:track:7yqU5HODQU91zj8ahUaUX1",
+            "track_href": "https://api.spotify.com/v1/tracks/7yqU5HODQU91zj8ahUaUX1",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/7yqU5HODQU91zj8ahUaUX1",
+            "duration_ms": 291293,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "2vEQ9zBiwbAVXzS2SOxodY",
+         "name": "Nothing's Gonna Stop Us Now",
+         "popularity": 0,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
+               },
+               "href": "https://api.spotify.com/v1/artists/0kObWap02DEg9EAJ3PBxzf",
+               "id": "0kObWap02DEg9EAJ3PBxzf",
+               "name": "Starship",
+               "type": "artist",
+               "uri": "spotify:artist:0kObWap02DEg9EAJ3PBxzf"
+            }
+         ],
+         "features": {
+            "danceability": 0.643,
+            "energy": 0.801,
+            "key": 6,
+            "loudness": -4.921,
+            "mode": 1,
+            "speechiness": 0.0228,
+            "acousticness": 0.0298,
+            "instrumentalness": 0,
+            "liveness": 0.0719,
+            "valence": 0.534,
+            "tempo": 95.988,
+            "type": "audio_features",
+            "id": "2vEQ9zBiwbAVXzS2SOxodY",
+            "uri": "spotify:track:2vEQ9zBiwbAVXzS2SOxodY",
+            "track_href": "https://api.spotify.com/v1/tracks/2vEQ9zBiwbAVXzS2SOxodY",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2vEQ9zBiwbAVXzS2SOxodY",
+            "duration_ms": 270333,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "6Ce9ItNCpk2PkAMq5v6EEV",
+         "name": "C'est La Vie",
+         "popularity": 37,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4NkLjsRsFnuPu9B4zqzBqq"
+               },
+               "href": "https://api.spotify.com/v1/artists/4NkLjsRsFnuPu9B4zqzBqq",
+               "id": "4NkLjsRsFnuPu9B4zqzBqq",
+               "name": "Robbie Nevil",
+               "type": "artist",
+               "uri": "spotify:artist:4NkLjsRsFnuPu9B4zqzBqq"
+            }
+         ],
+         "features": {
+            "danceability": 0.729,
+            "energy": 0.798,
+            "key": 7,
+            "loudness": -12.868,
+            "mode": 1,
+            "speechiness": 0.0552,
+            "acousticness": 0.533,
+            "instrumentalness": 0.00032,
+            "liveness": 0.725,
+            "valence": 0.565,
+            "tempo": 102.108,
+            "type": "audio_features",
+            "id": "6Ce9ItNCpk2PkAMq5v6EEV",
+            "uri": "spotify:track:6Ce9ItNCpk2PkAMq5v6EEV",
+            "track_href": "https://api.spotify.com/v1/tracks/6Ce9ItNCpk2PkAMq5v6EEV",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6Ce9ItNCpk2PkAMq5v6EEV",
+            "duration_ms": 271667,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "29pzjF6ZkzcW3ofgOVbF0t",
+         "name": "Here I Go Again",
+         "popularity": 60,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+               },
+               "href": "https://api.spotify.com/v1/artists/3UbyYnvNIT5DFXU4WgiGpP",
+               "id": "3UbyYnvNIT5DFXU4WgiGpP",
+               "name": "Whitesnake",
+               "type": "artist",
+               "uri": "spotify:artist:3UbyYnvNIT5DFXU4WgiGpP"
+            }
+         ],
+         "features": {
+            "danceability": 0.213,
+            "energy": 0.634,
+            "key": 4,
+            "loudness": -12.967,
+            "mode": 0,
+            "speechiness": 0.0596,
+            "acousticness": 0.369,
+            "instrumentalness": 0.00199,
+            "liveness": 0.359,
+            "valence": 0.354,
+            "tempo": 174.443,
+            "type": "audio_features",
+            "id": "29pzjF6ZkzcW3ofgOVbF0t",
+            "uri": "spotify:track:29pzjF6ZkzcW3ofgOVbF0t",
+            "track_href": "https://api.spotify.com/v1/tracks/29pzjF6ZkzcW3ofgOVbF0t",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/29pzjF6ZkzcW3ofgOVbF0t",
+            "duration_ms": 308800,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "6V50MyHPGhEmwYu0Wdyf0t",
+         "name": "The Way It Is",
+         "popularity": 69,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2iM28IgKg89v1o7BTQAVPo"
+               },
+               "href": "https://api.spotify.com/v1/artists/2iM28IgKg89v1o7BTQAVPo",
+               "id": "2iM28IgKg89v1o7BTQAVPo",
+               "name": "Bruce Hornsby",
+               "type": "artist",
+               "uri": "spotify:artist:2iM28IgKg89v1o7BTQAVPo"
+            },
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4374DY0rBAi0pCV6F9i00Y"
+               },
+               "href": "https://api.spotify.com/v1/artists/4374DY0rBAi0pCV6F9i00Y",
+               "id": "4374DY0rBAi0pCV6F9i00Y",
+               "name": "The Range",
+               "type": "artist",
+               "uri": "spotify:artist:4374DY0rBAi0pCV6F9i00Y"
+            }
+         ],
+         "features": {
+            "danceability": 0.582,
+            "energy": 0.689,
+            "key": 7,
+            "loudness": -12.203,
+            "mode": 1,
+            "speechiness": 0.0277,
+            "acousticness": 0.607,
+            "instrumentalness": 0.0571,
+            "liveness": 0.145,
+            "valence": 0.531,
+            "tempo": 111.166,
+            "type": "audio_features",
+            "id": "6V50MyHPGhEmwYu0Wdyf0t",
+            "uri": "spotify:track:6V50MyHPGhEmwYu0Wdyf0t",
+            "track_href": "https://api.spotify.com/v1/tracks/6V50MyHPGhEmwYu0Wdyf0t",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6V50MyHPGhEmwYu0Wdyf0t",
+            "duration_ms": 297853,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "7qQnBfwXrw2tZNFG4Uf57N",
+         "name": "Livin' On A Prayer",
+         "popularity": 0,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+               },
+               "href": "https://api.spotify.com/v1/artists/58lV9VcRSjABbAbfWS6skp",
+               "id": "58lV9VcRSjABbAbfWS6skp",
+               "name": "Bon Jovi",
+               "type": "artist",
+               "uri": "spotify:artist:58lV9VcRSjABbAbfWS6skp"
+            }
+         ],
+         "features": {
+            "danceability": 0.52,
+            "energy": 0.887,
+            "key": 0,
+            "loudness": -3.296,
+            "mode": 1,
+            "speechiness": 0.0349,
+            "acousticness": 0.0665,
+            "instrumentalness": 0.000179,
+            "liveness": 0.186,
+            "valence": 0.793,
+            "tempo": 122.528,
+            "type": "audio_features",
+            "id": "7qQnBfwXrw2tZNFG4Uf57N",
+            "uri": "spotify:track:7qQnBfwXrw2tZNFG4Uf57N",
+            "track_href": "https://api.spotify.com/v1/tracks/7qQnBfwXrw2tZNFG4Uf57N",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/7qQnBfwXrw2tZNFG4Uf57N",
+            "duration_ms": 250627,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "0uMMLry3hzWGn3q3loqMkm",
+         "name": "La Bamba",
+         "popularity": 65,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
+               },
+               "href": "https://api.spotify.com/v1/artists/6OWapcJm9xd55ci9CYbAuT",
+               "id": "6OWapcJm9xd55ci9CYbAuT",
+               "name": "Los Lobos",
+               "type": "artist",
+               "uri": "spotify:artist:6OWapcJm9xd55ci9CYbAuT"
+            }
+         ],
+         "features": {
+            "danceability": 0.506,
+            "energy": 0.764,
+            "key": 0,
+            "loudness": -12.239,
+            "mode": 1,
+            "speechiness": 0.046,
+            "acousticness": 0.144,
+            "instrumentalness": 0.00025,
+            "liveness": 0.247,
+            "valence": 0.868,
+            "tempo": 156.336,
+            "type": "audio_features",
+            "id": "0uMMLry3hzWGn3q3loqMkm",
+            "uri": "spotify:track:0uMMLry3hzWGn3q3loqMkm",
+            "track_href": "https://api.spotify.com/v1/tracks/0uMMLry3hzWGn3q3loqMkm",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/0uMMLry3hzWGn3q3loqMkm",
+            "duration_ms": 174187,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "13GGjBnHbmVHzSYCeA8gVw",
+         "name": "Everybody Have Fun Tonight",
+         "popularity": 0,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6Zh3xrWlA0SA9Fsfj9AVwm"
+               },
+               "href": "https://api.spotify.com/v1/artists/6Zh3xrWlA0SA9Fsfj9AVwm",
+               "id": "6Zh3xrWlA0SA9Fsfj9AVwm",
+               "name": "Wang Chung",
+               "type": "artist",
+               "uri": "spotify:artist:6Zh3xrWlA0SA9Fsfj9AVwm"
+            }
+         ],
+         "features": {
+            "danceability": 0.742,
+            "energy": 0.782,
+            "key": 9,
+            "loudness": -7.005,
+            "mode": 1,
+            "speechiness": 0.0366,
+            "acousticness": 0.0686,
+            "instrumentalness": 5.52e-05,
+            "liveness": 0.0439,
+            "valence": 0.741,
+            "tempo": 128.865,
+            "type": "audio_features",
+            "id": "13GGjBnHbmVHzSYCeA8gVw",
+            "uri": "spotify:track:13GGjBnHbmVHzSYCeA8gVw",
+            "track_href": "https://api.spotify.com/v1/tracks/13GGjBnHbmVHzSYCeA8gVw",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/13GGjBnHbmVHzSYCeA8gVw",
+            "duration_ms": 287227,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "4rr67zXmEYf9ykLigeEsbv",
+         "name": "Don't Dream It's Over",
+         "popularity": 0,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+               },
+               "href": "https://api.spotify.com/v1/artists/7ohlPA8dRBtCf92zaZCaaB",
+               "id": "7ohlPA8dRBtCf92zaZCaaB",
+               "name": "Crowded House",
+               "type": "artist",
+               "uri": "spotify:artist:7ohlPA8dRBtCf92zaZCaaB"
+            }
+         ],
+         "features": {
+            "danceability": 0.439,
+            "energy": 0.422,
+            "key": 8,
+            "loudness": -17.227,
+            "mode": 1,
+            "speechiness": 0.0409,
+            "acousticness": 0.0148,
+            "instrumentalness": 4.84e-05,
+            "liveness": 0.0697,
+            "valence": 0.551,
+            "tempo": 81.833,
+            "type": "audio_features",
+            "id": "4rr67zXmEYf9ykLigeEsbv",
+            "uri": "spotify:track:4rr67zXmEYf9ykLigeEsbv",
+            "track_href": "https://api.spotify.com/v1/tracks/4rr67zXmEYf9ykLigeEsbv",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4rr67zXmEYf9ykLigeEsbv",
+            "duration_ms": 236933,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "3smjYriN3K7zQvfikuRwnK",
+         "name": "Always",
+         "popularity": 45,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2YdVmtVBpIrv0N6WiBzSqm"
+               },
+               "href": "https://api.spotify.com/v1/artists/2YdVmtVBpIrv0N6WiBzSqm",
+               "id": "2YdVmtVBpIrv0N6WiBzSqm",
+               "name": "Atlantic Starr",
+               "type": "artist",
+               "uri": "spotify:artist:2YdVmtVBpIrv0N6WiBzSqm"
+            }
+         ],
+         "features": {
+            "danceability": 0.606,
+            "energy": 0.532,
+            "key": 7,
+            "loudness": -6.759,
+            "mode": 1,
+            "speechiness": 0.0256,
+            "acousticness": 0.403,
+            "instrumentalness": 0.000904,
+            "liveness": 0.356,
+            "valence": 0.327,
+            "tempo": 130.945,
+            "type": "audio_features",
+            "id": "3smjYriN3K7zQvfikuRwnK",
+            "uri": "spotify:track:3smjYriN3K7zQvfikuRwnK",
+            "track_href": "https://api.spotify.com/v1/tracks/3smjYriN3K7zQvfikuRwnK",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3smjYriN3K7zQvfikuRwnK",
+            "duration_ms": 288493,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "3bcYb4HwWlytUFLny0e0Q1",
+         "name": "With Or Without You",
+         "popularity": 0,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+               },
+               "href": "https://api.spotify.com/v1/artists/51Blml2LZPmy7TTiAg47vQ",
+               "id": "51Blml2LZPmy7TTiAg47vQ",
+               "name": "U2",
+               "type": "artist",
+               "uri": "spotify:artist:51Blml2LZPmy7TTiAg47vQ"
+            }
+         ],
+         "features": {
+            "danceability": 0.532,
+            "energy": 0.353,
+            "key": 2,
+            "loudness": -14.672,
+            "mode": 1,
+            "speechiness": 0.0309,
+            "acousticness": 0.000226,
+            "instrumentalness": 0.198,
+            "liveness": 0.123,
+            "valence": 0.111,
+            "tempo": 109.888,
+            "type": "audio_features",
+            "id": "3bcYb4HwWlytUFLny0e0Q1",
+            "uri": "spotify:track:3bcYb4HwWlytUFLny0e0Q1",
+            "track_href": "https://api.spotify.com/v1/tracks/3bcYb4HwWlytUFLny0e0Q1",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3bcYb4HwWlytUFLny0e0Q1",
+            "duration_ms": 296160,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "7BeV8s7R68eqPelMmvp5tu",
+         "name": "Looking For A New Love - Radio Edit",
+         "popularity": 45,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/71aKjsWKYqASAffyIQaocZ"
+               },
+               "href": "https://api.spotify.com/v1/artists/71aKjsWKYqASAffyIQaocZ",
+               "id": "71aKjsWKYqASAffyIQaocZ",
+               "name": "Jody Watley",
+               "type": "artist",
+               "uri": "spotify:artist:71aKjsWKYqASAffyIQaocZ"
+            },
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4aknOZmKFnayYvd03Avoz6"
+               },
+               "href": "https://api.spotify.com/v1/artists/4aknOZmKFnayYvd03Avoz6",
+               "id": "4aknOZmKFnayYvd03Avoz6",
+               "name": "Louil Silas Jr.",
+               "type": "artist",
+               "uri": "spotify:artist:4aknOZmKFnayYvd03Avoz6"
+            }
+         ],
+         "features": {
+            "danceability": 0.905,
+            "energy": 0.604,
+            "key": 4,
+            "loudness": -7.433,
+            "mode": 0,
+            "speechiness": 0.0413,
+            "acousticness": 0.149,
+            "instrumentalness": 9.24e-05,
+            "liveness": 0.0523,
+            "valence": 0.899,
+            "tempo": 109.196,
+            "type": "audio_features",
+            "id": "7BeV8s7R68eqPelMmvp5tu",
+            "uri": "spotify:track:7BeV8s7R68eqPelMmvp5tu",
+            "track_href": "https://api.spotify.com/v1/tracks/7BeV8s7R68eqPelMmvp5tu",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/7BeV8s7R68eqPelMmvp5tu",
+            "duration_ms": 242400,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "7vGekIpStYxbauCP2HcXPq",
+         "name": "Head To Toe",
+         "popularity": 17,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT"
+               },
+               "href": "https://api.spotify.com/v1/artists/1vgjN6nIPNKiiQGE9PtzTT",
+               "id": "1vgjN6nIPNKiiQGE9PtzTT",
+               "name": "Lisa Lisa & Cult Jam",
+               "type": "artist",
+               "uri": "spotify:artist:1vgjN6nIPNKiiQGE9PtzTT"
+            }
+         ],
+         "features": {
+            "danceability": 0.526,
+            "energy": 0.653,
+            "key": 2,
+            "loudness": -4.897,
+            "mode": 1,
+            "speechiness": 0.139,
+            "acousticness": 0.0207,
+            "instrumentalness": 6.36e-06,
+            "liveness": 0.571,
+            "valence": 0.848,
+            "tempo": 151.796,
+            "type": "audio_features",
+            "id": "7vGekIpStYxbauCP2HcXPq",
+            "uri": "spotify:track:7vGekIpStYxbauCP2HcXPq",
+            "track_href": "https://api.spotify.com/v1/tracks/7vGekIpStYxbauCP2HcXPq",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/7vGekIpStYxbauCP2HcXPq",
+            "duration_ms": 302158,
+            "time_signature": 5
+         }
+      },
+      {
+         "id": "0n1NI4TnEw0SeXSS4DNhhb",
+         "name": "I Think We're Alone Now",
+         "popularity": 54,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4C3uGP8vRDzxrhJxZiOjTe"
+               },
+               "href": "https://api.spotify.com/v1/artists/4C3uGP8vRDzxrhJxZiOjTe",
+               "id": "4C3uGP8vRDzxrhJxZiOjTe",
+               "name": "Tiffany",
+               "type": "artist",
+               "uri": "spotify:artist:4C3uGP8vRDzxrhJxZiOjTe"
+            }
+         ],
+         "features": {
+            "danceability": 0.646,
+            "energy": 0.892,
+            "key": 2,
+            "loudness": -5.406,
+            "mode": 1,
+            "speechiness": 0.041,
+            "acousticness": 3.76e-05,
+            "instrumentalness": 0.00665,
+            "liveness": 0.0915,
+            "valence": 0.7,
+            "tempo": 130.297,
+            "type": "audio_features",
+            "id": "0n1NI4TnEw0SeXSS4DNhhb",
+            "uri": "spotify:track:0n1NI4TnEw0SeXSS4DNhhb",
+            "track_href": "https://api.spotify.com/v1/tracks/0n1NI4TnEw0SeXSS4DNhhb",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/0n1NI4TnEw0SeXSS4DNhhb",
+            "duration_ms": 226520,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "3GfGTJ2xzC0rqKgdjNJLOC",
+         "name": "Mony Mony",
+         "popularity": 60,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+               },
+               "href": "https://api.spotify.com/v1/artists/7lzordPuZEXxwt9aoVZYmG",
+               "id": "7lzordPuZEXxwt9aoVZYmG",
+               "name": "Billy Idol",
+               "type": "artist",
+               "uri": "spotify:artist:7lzordPuZEXxwt9aoVZYmG"
+            }
+         ],
+         "features": {
+            "danceability": 0.701,
+            "energy": 0.758,
+            "key": 1,
+            "loudness": -5.568,
+            "mode": 1,
+            "speechiness": 0.0405,
+            "acousticness": 0.004,
+            "instrumentalness": 0,
+            "liveness": 0.13,
+            "valence": 0.344,
+            "tempo": 135.188,
+            "type": "audio_features",
+            "id": "3GfGTJ2xzC0rqKgdjNJLOC",
+            "uri": "spotify:track:3GfGTJ2xzC0rqKgdjNJLOC",
+            "track_href": "https://api.spotify.com/v1/tracks/3GfGTJ2xzC0rqKgdjNJLOC",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3GfGTJ2xzC0rqKgdjNJLOC",
+            "duration_ms": 300213,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "6LDRTOMCSx81hKXAk1LuHd",
+         "name": "At This Moment",
+         "popularity": 38,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1QQBo7mfkehMjDfz1tj5Pq"
+               },
+               "href": "https://api.spotify.com/v1/artists/1QQBo7mfkehMjDfz1tj5Pq",
+               "id": "1QQBo7mfkehMjDfz1tj5Pq",
+               "name": "Billy Vera & The Beaters",
+               "type": "artist",
+               "uri": "spotify:artist:1QQBo7mfkehMjDfz1tj5Pq"
+            }
+         ],
+         "features": {
+            "danceability": 0.578,
+            "energy": 0.286,
+            "key": 6,
+            "loudness": -7.371,
+            "mode": 1,
+            "speechiness": 0.0421,
+            "acousticness": 0.864,
+            "instrumentalness": 2.68e-05,
+            "liveness": 0.168,
+            "valence": 0.16,
+            "tempo": 80.975,
+            "type": "audio_features",
+            "id": "6LDRTOMCSx81hKXAk1LuHd",
+            "uri": "spotify:track:6LDRTOMCSx81hKXAk1LuHd",
+            "track_href": "https://api.spotify.com/v1/tracks/6LDRTOMCSx81hKXAk1LuHd",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6LDRTOMCSx81hKXAk1LuHd",
+            "duration_ms": 234507,
+            "time_signature": 3
+         }
+      },
+      {
+         "id": "3lXQkvrg2G22lDsrZyR8pK",
+         "name": "The Lady In Red",
+         "popularity": 0,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
+               },
+               "href": "https://api.spotify.com/v1/artists/2RpHsROrX075xfIwHn6B2U",
+               "id": "2RpHsROrX075xfIwHn6B2U",
+               "name": "Chris de Burgh",
+               "type": "artist",
+               "uri": "spotify:artist:2RpHsROrX075xfIwHn6B2U"
+            }
+         ],
+         "features": {
+            "danceability": 0.544,
+            "energy": 0.504,
+            "key": 10,
+            "loudness": -8.702,
+            "mode": 1,
+            "speechiness": 0.0298,
+            "acousticness": 0.457,
+            "instrumentalness": 1.99e-05,
+            "liveness": 0.0364,
+            "valence": 0.487,
+            "tempo": 154.016,
+            "type": "audio_features",
+            "id": "3lXQkvrg2G22lDsrZyR8pK",
+            "uri": "spotify:track:3lXQkvrg2G22lDsrZyR8pK",
+            "track_href": "https://api.spotify.com/v1/tracks/3lXQkvrg2G22lDsrZyR8pK",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3lXQkvrg2G22lDsrZyR8pK",
+            "duration_ms": 257507,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "2WxRXUbJJFkJJkFyn8LfVj",
+         "name": "Didn't We Almost Have It All",
+         "popularity": 0,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+               },
+               "href": "https://api.spotify.com/v1/artists/6XpaIBNiVzIetEPCWDvAFP",
+               "id": "6XpaIBNiVzIetEPCWDvAFP",
+               "name": "Whitney Houston",
+               "type": "artist",
+               "uri": "spotify:artist:6XpaIBNiVzIetEPCWDvAFP"
+            }
+         ],
+         "features": {
+            "danceability": 0.55,
+            "energy": 0.62,
+            "key": 10,
+            "loudness": -5.349,
+            "mode": 1,
+            "speechiness": 0.0262,
+            "acousticness": 0.377,
+            "instrumentalness": 0.0007,
+            "liveness": 0.157,
+            "valence": 0.286,
+            "tempo": 131.182,
+            "type": "audio_features",
+            "id": "2WxRXUbJJFkJJkFyn8LfVj",
+            "uri": "spotify:track:2WxRXUbJJFkJJkFyn8LfVj",
+            "track_href": "https://api.spotify.com/v1/tracks/2WxRXUbJJFkJJkFyn8LfVj",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2WxRXUbJJFkJJkFyn8LfVj",
+            "duration_ms": 274667,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "5MEMiHV54Y5ODV1zvEPsyp",
+         "name": "I Still Haven't Found What I'm Looking For",
+         "popularity": 0,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+               },
+               "href": "https://api.spotify.com/v1/artists/51Blml2LZPmy7TTiAg47vQ",
+               "id": "51Blml2LZPmy7TTiAg47vQ",
+               "name": "U2",
+               "type": "artist",
+               "uri": "spotify:artist:51Blml2LZPmy7TTiAg47vQ"
+            }
+         ],
+         "features": {
+            "danceability": 0.561,
+            "energy": 0.63,
+            "key": 1,
+            "loudness": -12.924,
+            "mode": 1,
+            "speechiness": 0.0395,
+            "acousticness": 0.0205,
+            "instrumentalness": 0.00133,
+            "liveness": 0.0695,
+            "valence": 0.682,
+            "tempo": 100.646,
+            "type": "audio_features",
+            "id": "5MEMiHV54Y5ODV1zvEPsyp",
+            "uri": "spotify:track:5MEMiHV54Y5ODV1zvEPsyp",
+            "track_href": "https://api.spotify.com/v1/tracks/5MEMiHV54Y5ODV1zvEPsyp",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5MEMiHV54Y5ODV1zvEPsyp",
+            "duration_ms": 277493,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "6QnFHieoch6U9J8zfv6hml",
+         "name": "I Want Your Sex - Pts. 1 & 2 Remastered",
+         "popularity": 51,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+               },
+               "href": "https://api.spotify.com/v1/artists/19ra5tSw0tWufvUp8GotLo",
+               "id": "19ra5tSw0tWufvUp8GotLo",
+               "name": "George Michael",
+               "type": "artist",
+               "uri": "spotify:artist:19ra5tSw0tWufvUp8GotLo"
+            }
+         ],
+         "features": {
+            "danceability": 0.812,
+            "energy": 0.6,
+            "key": 10,
+            "loudness": -13.418,
+            "mode": 0,
+            "speechiness": 0.0538,
+            "acousticness": 0.00509,
+            "instrumentalness": 0.0248,
+            "liveness": 0.0465,
+            "valence": 0.8,
+            "tempo": 99.189,
+            "type": "audio_features",
+            "id": "6QnFHieoch6U9J8zfv6hml",
+            "uri": "spotify:track:6QnFHieoch6U9J8zfv6hml",
+            "track_href": "https://api.spotify.com/v1/tracks/6QnFHieoch6U9J8zfv6hml",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6QnFHieoch6U9J8zfv6hml",
+            "duration_ms": 557293,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "1stJclD9IGUbxtUnl8CzG3",
+         "name": "Notorious",
+         "popularity": 39,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+               },
+               "href": "https://api.spotify.com/v1/artists/0lZoBs4Pzo7R89JM9lxwoT",
+               "id": "0lZoBs4Pzo7R89JM9lxwoT",
+               "name": "Duran Duran",
+               "type": "artist",
+               "uri": "spotify:artist:0lZoBs4Pzo7R89JM9lxwoT"
+            }
+         ],
+         "features": {
+            "danceability": 0.815,
+            "energy": 0.626,
+            "key": 0,
+            "loudness": -13.406,
+            "mode": 1,
+            "speechiness": 0.0553,
+            "acousticness": 0.504,
+            "instrumentalness": 1.41e-06,
+            "liveness": 0.0372,
+            "valence": 0.825,
+            "tempo": 106.47,
+            "type": "audio_features",
+            "id": "1stJclD9IGUbxtUnl8CzG3",
+            "uri": "spotify:track:1stJclD9IGUbxtUnl8CzG3",
+            "track_href": "https://api.spotify.com/v1/tracks/1stJclD9IGUbxtUnl8CzG3",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/1stJclD9IGUbxtUnl8CzG3",
+            "duration_ms": 258000,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "6EoAUmLaog9mUTMDtdVudr",
+         "name": "Only in My Dreams",
+         "popularity": 28,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp"
+               },
+               "href": "https://api.spotify.com/v1/artists/18jZvCsW1PJ4FDQ5gEXuKp",
+               "id": "18jZvCsW1PJ4FDQ5gEXuKp",
+               "name": "Debbie Gibson",
+               "type": "artist",
+               "uri": "spotify:artist:18jZvCsW1PJ4FDQ5gEXuKp"
+            }
+         ],
+         "features": {
+            "danceability": 0.616,
+            "energy": 0.791,
+            "key": 8,
+            "loudness": -11.212,
+            "mode": 1,
+            "speechiness": 0.0383,
+            "acousticness": 0.127,
+            "instrumentalness": 0.00932,
+            "liveness": 0.138,
+            "valence": 0.907,
+            "tempo": 124.852,
+            "type": "audio_features",
+            "id": "6EoAUmLaog9mUTMDtdVudr",
+            "uri": "spotify:track:6EoAUmLaog9mUTMDtdVudr",
+            "track_href": "https://api.spotify.com/v1/tracks/6EoAUmLaog9mUTMDtdVudr",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6EoAUmLaog9mUTMDtdVudr",
+            "duration_ms": 236533,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "5UqqOfFa9DYXALpCCF8VwB",
+         "name": "(I've Had) The Time of My Life",
+         "popularity": 0,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx"
+               },
+               "href": "https://api.spotify.com/v1/artists/1XE70WwxhnrXNAJYQQ9ygx",
+               "id": "1XE70WwxhnrXNAJYQQ9ygx",
+               "name": "Bill Medley",
+               "type": "artist",
+               "uri": "spotify:artist:1XE70WwxhnrXNAJYQQ9ygx"
+            },
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG"
+               },
+               "href": "https://api.spotify.com/v1/artists/1BwHztAQKypBuy5WBEdJnG",
+               "id": "1BwHztAQKypBuy5WBEdJnG",
+               "name": "Jennifer Warnes",
+               "type": "artist",
+               "uri": "spotify:artist:1BwHztAQKypBuy5WBEdJnG"
+            }
+         ],
+         "features": {
+            "danceability": 0.697,
+            "energy": 0.665,
+            "key": 6,
+            "loudness": -12.907,
+            "mode": 0,
+            "speechiness": 0.0412,
+            "acousticness": 0.0476,
+            "instrumentalness": 0.00665,
+            "liveness": 0.0796,
+            "valence": 0.485,
+            "tempo": 108.535,
+            "type": "audio_features",
+            "id": "5UqqOfFa9DYXALpCCF8VwB",
+            "uri": "spotify:track:5UqqOfFa9DYXALpCCF8VwB",
+            "track_href": "https://api.spotify.com/v1/tracks/5UqqOfFa9DYXALpCCF8VwB",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5UqqOfFa9DYXALpCCF8VwB",
+            "duration_ms": 289680,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "7zSDDsIlks515d0tZGM64x",
+         "name": "The Next Time I Fall (with Amy Grant)",
+         "popularity": 59,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
+               },
+               "href": "https://api.spotify.com/v1/artists/5xWPOujQqd4wXyB08slZ9Z",
+               "id": "5xWPOujQqd4wXyB08slZ9Z",
+               "name": "Peter Cetera",
+               "type": "artist",
+               "uri": "spotify:artist:5xWPOujQqd4wXyB08slZ9Z"
+            },
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+               },
+               "href": "https://api.spotify.com/v1/artists/72Nhcx7prNk2ZCxhx0Y5es",
+               "id": "72Nhcx7prNk2ZCxhx0Y5es",
+               "name": "Amy Grant",
+               "type": "artist",
+               "uri": "spotify:artist:72Nhcx7prNk2ZCxhx0Y5es"
+            }
+         ],
+         "features": {
+            "danceability": 0.656,
+            "energy": 0.347,
+            "key": 9,
+            "loudness": -13.398,
+            "mode": 1,
+            "speechiness": 0.028,
+            "acousticness": 0.488,
+            "instrumentalness": 0.00221,
+            "liveness": 0.0645,
+            "valence": 0.368,
+            "tempo": 118.288,
+            "type": "audio_features",
+            "id": "7zSDDsIlks515d0tZGM64x",
+            "uri": "spotify:track:7zSDDsIlks515d0tZGM64x",
+            "track_href": "https://api.spotify.com/v1/tracks/7zSDDsIlks515d0tZGM64x",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/7zSDDsIlks515d0tZGM64x",
+            "duration_ms": 225973,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "6bKqSvTOPxkqv9rc1tRZSx",
+         "name": "Lean on Me (Re-Recorded)",
+         "popularity": 28,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4kEAjV4pCBOkoowYYQydvO"
+               },
+               "href": "https://api.spotify.com/v1/artists/4kEAjV4pCBOkoowYYQydvO",
+               "id": "4kEAjV4pCBOkoowYYQydvO",
+               "name": "Club Nouveau",
+               "type": "artist",
+               "uri": "spotify:artist:4kEAjV4pCBOkoowYYQydvO"
+            }
+         ],
+         "features": {
+            "danceability": 0.737,
+            "energy": 0.628,
+            "key": 0,
+            "loudness": -11.978,
+            "mode": 1,
+            "speechiness": 0.0879,
+            "acousticness": 0.00501,
+            "instrumentalness": 0,
+            "liveness": 0.0665,
+            "valence": 0.49,
+            "tempo": 177.856,
+            "type": "audio_features",
+            "id": "6bKqSvTOPxkqv9rc1tRZSx",
+            "uri": "spotify:track:6bKqSvTOPxkqv9rc1tRZSx",
+            "track_href": "https://api.spotify.com/v1/tracks/6bKqSvTOPxkqv9rc1tRZSx",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6bKqSvTOPxkqv9rc1tRZSx",
+            "duration_ms": 288864,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "3kme5Qos8h04yrKxsgur79",
+         "name": "Open Your Heart",
+         "popularity": 54,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+               },
+               "href": "https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW",
+               "id": "6tbjWDEIzxoDsBA1FuhfPW",
+               "name": "Madonna",
+               "type": "artist",
+               "uri": "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+            }
+         ],
+         "features": {
+            "danceability": 0.656,
+            "energy": 0.899,
+            "key": 5,
+            "loudness": -5.039,
+            "mode": 1,
+            "speechiness": 0.0565,
+            "acousticness": 0.0261,
+            "instrumentalness": 0,
+            "liveness": 0.0936,
+            "valence": 0.865,
+            "tempo": 113.239,
+            "type": "audio_features",
+            "id": "3kme5Qos8h04yrKxsgur79",
+            "uri": "spotify:track:3kme5Qos8h04yrKxsgur79",
+            "track_href": "https://api.spotify.com/v1/tracks/3kme5Qos8h04yrKxsgur79",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3kme5Qos8h04yrKxsgur79",
+            "duration_ms": 229280,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "6OdFo2eQH3q0qOAAxCdoCx",
+         "name": "Lost in Emotion - Re-Recorded",
+         "popularity": 0,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT"
+               },
+               "href": "https://api.spotify.com/v1/artists/1vgjN6nIPNKiiQGE9PtzTT",
+               "id": "1vgjN6nIPNKiiQGE9PtzTT",
+               "name": "Lisa Lisa & Cult Jam",
+               "type": "artist",
+               "uri": "spotify:artist:1vgjN6nIPNKiiQGE9PtzTT"
+            }
+         ],
+         "features": {
+            "danceability": 0.765,
+            "energy": 0.859,
+            "key": 0,
+            "loudness": -3.943,
+            "mode": 1,
+            "speechiness": 0.0337,
+            "acousticness": 0.0372,
+            "instrumentalness": 0.000301,
+            "liveness": 0.15,
+            "valence": 0.921,
+            "tempo": 119.809,
+            "type": "audio_features",
+            "id": "6OdFo2eQH3q0qOAAxCdoCx",
+            "uri": "spotify:track:6OdFo2eQH3q0qOAAxCdoCx",
+            "track_href": "https://api.spotify.com/v1/tracks/6OdFo2eQH3q0qOAAxCdoCx",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6OdFo2eQH3q0qOAAxCdoCx",
+            "duration_ms": 310820,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "0YPXkQthLWrhNGoKTbwCJ8",
+         "name": "(I Just) Died In Your Arms",
+         "popularity": 66,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i"
+               },
+               "href": "https://api.spotify.com/v1/artists/3cniTumSiUysiPWXapGx1i",
+               "id": "3cniTumSiUysiPWXapGx1i",
+               "name": "Cutting Crew",
+               "type": "artist",
+               "uri": "spotify:artist:3cniTumSiUysiPWXapGx1i"
+            }
+         ],
+         "features": {
+            "danceability": 0.632,
+            "energy": 0.727,
+            "key": 11,
+            "loudness": -11.209,
+            "mode": 0,
+            "speechiness": 0.0438,
+            "acousticness": 0.0119,
+            "instrumentalness": 7.64e-05,
+            "liveness": 0.0678,
+            "valence": 0.499,
+            "tempo": 124.919,
+            "type": "audio_features",
+            "id": "0YPXkQthLWrhNGoKTbwCJ8",
+            "uri": "spotify:track:0YPXkQthLWrhNGoKTbwCJ8",
+            "track_href": "https://api.spotify.com/v1/tracks/0YPXkQthLWrhNGoKTbwCJ8",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/0YPXkQthLWrhNGoKTbwCJ8",
+            "duration_ms": 278627,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "4w7vjy63isbyWp2P7m4k3L",
+         "name": "Heart And Soul",
+         "popularity": 0,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/47qTcvYlqJGAEsCI7BcENC"
+               },
+               "href": "https://api.spotify.com/v1/artists/47qTcvYlqJGAEsCI7BcENC",
+               "id": "47qTcvYlqJGAEsCI7BcENC",
+               "name": "T'Pau",
+               "type": "artist",
+               "uri": "spotify:artist:47qTcvYlqJGAEsCI7BcENC"
+            }
+         ],
+         "features": {
+            "danceability": 0.436,
+            "energy": 0.905,
+            "key": 5,
+            "loudness": -6.271,
+            "mode": 1,
+            "speechiness": 0.0409,
+            "acousticness": 0.152,
+            "instrumentalness": 3.55e-06,
+            "liveness": 0.932,
+            "valence": 0.429,
+            "tempo": 90.178,
+            "type": "audio_features",
+            "id": "4w7vjy63isbyWp2P7m4k3L",
+            "uri": "spotify:track:4w7vjy63isbyWp2P7m4k3L",
+            "track_href": "https://api.spotify.com/v1/tracks/4w7vjy63isbyWp2P7m4k3L",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4w7vjy63isbyWp2P7m4k3L",
+            "duration_ms": 300973,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "06zAcTERy6OnugGpX21apj",
+         "name": "You Keep Me Hangin' On",
+         "popularity": 0,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo"
+               },
+               "href": "https://api.spotify.com/v1/artists/73a6pNH4YtLNgDbPQwXveo",
+               "id": "73a6pNH4YtLNgDbPQwXveo",
+               "name": "Kim Wilde",
+               "type": "artist",
+               "uri": "spotify:artist:73a6pNH4YtLNgDbPQwXveo"
+            }
+         ],
+         "features": {
+            "danceability": 0.666,
+            "energy": 0.88,
+            "key": 7,
+            "loudness": -5.466,
+            "mode": 0,
+            "speechiness": 0.0392,
+            "acousticness": 0.0309,
+            "instrumentalness": 0.000705,
+            "liveness": 0.184,
+            "valence": 0.739,
+            "tempo": 123.635,
+            "type": "audio_features",
+            "id": "06zAcTERy6OnugGpX21apj",
+            "uri": "spotify:track:06zAcTERy6OnugGpX21apj",
+            "track_href": "https://api.spotify.com/v1/tracks/06zAcTERy6OnugGpX21apj",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/06zAcTERy6OnugGpX21apj",
+            "duration_ms": 251907,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "4MgGdPmbySSVLUPBxzQ7mx",
+         "name": "Keep Your Hands to Yourself",
+         "popularity": 49,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A"
+               },
+               "href": "https://api.spotify.com/v1/artists/2hnzQ6eCFkxUIPsVcsdj8A",
+               "id": "2hnzQ6eCFkxUIPsVcsdj8A",
+               "name": "The Georgia Satellites",
+               "type": "artist",
+               "uri": "spotify:artist:2hnzQ6eCFkxUIPsVcsdj8A"
+            }
+         ],
+         "features": {
+            "danceability": 0.577,
+            "energy": 0.807,
+            "key": 2,
+            "loudness": -9.281,
+            "mode": 1,
+            "speechiness": 0.0449,
+            "acousticness": 0.00233,
+            "instrumentalness": 0.000257,
+            "liveness": 0.0755,
+            "valence": 0.891,
+            "tempo": 114.921,
+            "type": "audio_features",
+            "id": "4MgGdPmbySSVLUPBxzQ7mx",
+            "uri": "spotify:track:4MgGdPmbySSVLUPBxzQ7mx",
+            "track_href": "https://api.spotify.com/v1/tracks/4MgGdPmbySSVLUPBxzQ7mx",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4MgGdPmbySSVLUPBxzQ7mx",
+            "duration_ms": 205000,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "0f6pHbsLzpWxl5CfhOUjBA",
+         "name": "I Knew You Were Waiting (For Me)",
+         "popularity": 0,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+               },
+               "href": "https://api.spotify.com/v1/artists/19ra5tSw0tWufvUp8GotLo",
+               "id": "19ra5tSw0tWufvUp8GotLo",
+               "name": "George Michael",
+               "type": "artist",
+               "uri": "spotify:artist:19ra5tSw0tWufvUp8GotLo"
+            },
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+               },
+               "href": "https://api.spotify.com/v1/artists/7nwUJBm0HE4ZxD3f5cy5ok",
+               "id": "7nwUJBm0HE4ZxD3f5cy5ok",
+               "name": "Aretha Franklin",
+               "type": "artist",
+               "uri": "spotify:artist:7nwUJBm0HE4ZxD3f5cy5ok"
+            }
+         ],
+         "features": {
+            "danceability": 0.71,
+            "energy": 0.639,
+            "key": 4,
+            "loudness": -12.839,
+            "mode": 1,
+            "speechiness": 0.045,
+            "acousticness": 0.23,
+            "instrumentalness": 0,
+            "liveness": 0.172,
+            "valence": 0.733,
+            "tempo": 107.947,
+            "type": "audio_features",
+            "id": "0f6pHbsLzpWxl5CfhOUjBA",
+            "uri": "spotify:track:0f6pHbsLzpWxl5CfhOUjBA",
+            "track_href": "https://api.spotify.com/v1/tracks/0f6pHbsLzpWxl5CfhOUjBA",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/0f6pHbsLzpWxl5CfhOUjBA",
+            "duration_ms": 241000,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "5vywtoD7fO1CP0B2wtm6I6",
+         "name": "Control",
+         "popularity": 45,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+               },
+               "href": "https://api.spotify.com/v1/artists/4qwGe91Bz9K2T8jXTZ815W",
+               "id": "4qwGe91Bz9K2T8jXTZ815W",
+               "name": "Janet Jackson",
+               "type": "artist",
+               "uri": "spotify:artist:4qwGe91Bz9K2T8jXTZ815W"
+            }
+         ],
+         "features": {
+            "danceability": 0.785,
+            "energy": 0.786,
+            "key": 11,
+            "loudness": -12.487,
+            "mode": 1,
+            "speechiness": 0.0501,
+            "acousticness": 0.28,
+            "instrumentalness": 0.236,
+            "liveness": 0.158,
+            "valence": 0.638,
+            "tempo": 120.404,
+            "type": "audio_features",
+            "id": "5vywtoD7fO1CP0B2wtm6I6",
+            "uri": "spotify:track:5vywtoD7fO1CP0B2wtm6I6",
+            "track_href": "https://api.spotify.com/v1/tracks/5vywtoD7fO1CP0B2wtm6I6",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5vywtoD7fO1CP0B2wtm6I6",
+            "duration_ms": 353307,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "1w2eruYH50BnPSIJ8yM8tQ",
+         "name": "U Got the Look",
+         "popularity": 28,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+               },
+               "href": "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j",
+               "id": "5a2EaR3hamoenG9rDuVn8j",
+               "name": "Prince",
+               "type": "artist",
+               "uri": "spotify:artist:5a2EaR3hamoenG9rDuVn8j"
+            }
+         ],
+         "features": {
+            "danceability": 0.841,
+            "energy": 0.591,
+            "key": 9,
+            "loudness": -9.905,
+            "mode": 1,
+            "speechiness": 0.0608,
+            "acousticness": 0.153,
+            "instrumentalness": 4.91e-05,
+            "liveness": 0.0496,
+            "valence": 0.767,
+            "tempo": 122.35,
+            "type": "audio_features",
+            "id": "1w2eruYH50BnPSIJ8yM8tQ",
+            "uri": "spotify:track:1w2eruYH50BnPSIJ8yM8tQ",
+            "track_href": "https://api.spotify.com/v1/tracks/1w2eruYH50BnPSIJ8yM8tQ",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/1w2eruYH50BnPSIJ8yM8tQ",
+            "duration_ms": 227867,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "6twIBPybEvGydyNzNz89FT",
+         "name": "Land of Confusion - 2007 Remaster",
+         "popularity": 58,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+               },
+               "href": "https://api.spotify.com/v1/artists/3CkvROUTQ6nRi9yQOcsB50",
+               "id": "3CkvROUTQ6nRi9yQOcsB50",
+               "name": "Genesis",
+               "type": "artist",
+               "uri": "spotify:artist:3CkvROUTQ6nRi9yQOcsB50"
+            }
+         ],
+         "features": {
+            "danceability": 0.63,
+            "energy": 0.909,
+            "key": 1,
+            "loudness": -7.142,
+            "mode": 1,
+            "speechiness": 0.0388,
+            "acousticness": 0.0431,
+            "instrumentalness": 8.17e-05,
+            "liveness": 0.23,
+            "valence": 0.811,
+            "tempo": 115.189,
+            "type": "audio_features",
+            "id": "6twIBPybEvGydyNzNz89FT",
+            "uri": "spotify:track:6twIBPybEvGydyNzNz89FT",
+            "track_href": "https://api.spotify.com/v1/tracks/6twIBPybEvGydyNzNz89FT",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6twIBPybEvGydyNzNz89FT",
+            "duration_ms": 286840,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "3PMnGAts25JWoEBgc4iEYh",
+         "name": "Jacob's Ladder - Single Remix",
+         "popularity": 34,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+               },
+               "href": "https://api.spotify.com/v1/artists/7A9yZMTrFZcgEWAX2kBfK6",
+               "id": "7A9yZMTrFZcgEWAX2kBfK6",
+               "name": "Huey Lewis & The News",
+               "type": "artist",
+               "uri": "spotify:artist:7A9yZMTrFZcgEWAX2kBfK6"
+            }
+         ],
+         "features": {
+            "danceability": 0.661,
+            "energy": 0.846,
+            "key": 10,
+            "loudness": -5.175,
+            "mode": 1,
+            "speechiness": 0.0315,
+            "acousticness": 0.00475,
+            "instrumentalness": 0,
+            "liveness": 0.117,
+            "valence": 0.601,
+            "tempo": 118.036,
+            "type": "audio_features",
+            "id": "3PMnGAts25JWoEBgc4iEYh",
+            "uri": "spotify:track:3PMnGAts25JWoEBgc4iEYh",
+            "track_href": "https://api.spotify.com/v1/tracks/3PMnGAts25JWoEBgc4iEYh",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3PMnGAts25JWoEBgc4iEYh",
+            "duration_ms": 209453,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "16cb7NuPz7j0BrQGXKo3zd",
+         "name": "Who's That Girl",
+         "popularity": 41,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+               },
+               "href": "https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW",
+               "id": "6tbjWDEIzxoDsBA1FuhfPW",
+               "name": "Madonna",
+               "type": "artist",
+               "uri": "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+            }
+         ],
+         "features": {
+            "danceability": 0.612,
+            "energy": 0.857,
+            "key": 9,
+            "loudness": -6.464,
+            "mode": 0,
+            "speechiness": 0.0383,
+            "acousticness": 0.25,
+            "instrumentalness": 0.0883,
+            "liveness": 0.0916,
+            "valence": 0.812,
+            "tempo": 103.833,
+            "type": "audio_features",
+            "id": "16cb7NuPz7j0BrQGXKo3zd",
+            "uri": "spotify:track:16cb7NuPz7j0BrQGXKo3zd",
+            "track_href": "https://api.spotify.com/v1/tracks/16cb7NuPz7j0BrQGXKo3zd",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/16cb7NuPz7j0BrQGXKo3zd",
+            "duration_ms": 238773,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "2tjPr1eN1bQIYn7APY0YjR",
+         "name": "You Got It All",
+         "popularity": 39,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3AHq6rutf72JF0ul8GB6G2"
+               },
+               "href": "https://api.spotify.com/v1/artists/3AHq6rutf72JF0ul8GB6G2",
+               "id": "3AHq6rutf72JF0ul8GB6G2",
+               "name": "The Jets",
+               "type": "artist",
+               "uri": "spotify:artist:3AHq6rutf72JF0ul8GB6G2"
+            }
+         ],
+         "features": {
+            "danceability": 0.724,
+            "energy": 0.426,
+            "key": 1,
+            "loudness": -11.223,
+            "mode": 1,
+            "speechiness": 0.0248,
+            "acousticness": 0.0627,
+            "instrumentalness": 5.69e-05,
+            "liveness": 0.0692,
+            "valence": 0.682,
+            "tempo": 83.237,
+            "type": "audio_features",
+            "id": "2tjPr1eN1bQIYn7APY0YjR",
+            "uri": "spotify:track:2tjPr1eN1bQIYn7APY0YjR",
+            "track_href": "https://api.spotify.com/v1/tracks/2tjPr1eN1bQIYn7APY0YjR",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2tjPr1eN1bQIYn7APY0YjR",
+            "duration_ms": 261720,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "5nvSfsMm1MXVvZOxd5ZdBX",
+         "name": "Touch Me (I Want Your Body)",
+         "popularity": 30,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0ym94xKp2PIOJtTZKpxbAa"
+               },
+               "href": "https://api.spotify.com/v1/artists/0ym94xKp2PIOJtTZKpxbAa",
+               "id": "0ym94xKp2PIOJtTZKpxbAa",
+               "name": "Samantha Fox",
+               "type": "artist",
+               "uri": "spotify:artist:0ym94xKp2PIOJtTZKpxbAa"
+            }
+         ],
+         "features": {
+            "danceability": 0.656,
+            "energy": 0.645,
+            "key": 9,
+            "loudness": -10.257,
+            "mode": 0,
+            "speechiness": 0.0316,
+            "acousticness": 0.142,
+            "instrumentalness": 0.000117,
+            "liveness": 0.0558,
+            "valence": 0.61,
+            "tempo": 104.895,
+            "type": "audio_features",
+            "id": "5nvSfsMm1MXVvZOxd5ZdBX",
+            "uri": "spotify:track:5nvSfsMm1MXVvZOxd5ZdBX",
+            "track_href": "https://api.spotify.com/v1/tracks/5nvSfsMm1MXVvZOxd5ZdBX",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5nvSfsMm1MXVvZOxd5ZdBX",
+            "duration_ms": 225560,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "0it16By6VcfBXis67YMNbT",
+         "name": "I Just Can't Stop Loving You (feat. Siedah Garrett) - Remastered",
+         "popularity": 40,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+               },
+               "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm",
+               "id": "3fMbdgg4jU18AjLCKBhRSm",
+               "name": "Michael Jackson",
+               "type": "artist",
+               "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm"
+            },
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT"
+               },
+               "href": "https://api.spotify.com/v1/artists/7EVlecngyrLHfQUqFMpwkT",
+               "id": "7EVlecngyrLHfQUqFMpwkT",
+               "name": "Siedah Garrett",
+               "type": "artist",
+               "uri": "spotify:artist:7EVlecngyrLHfQUqFMpwkT"
+            }
+         ],
+         "features": {
+            "danceability": 0.66,
+            "energy": 0.502,
+            "key": 5,
+            "loudness": -7.715,
+            "mode": 1,
+            "speechiness": 0.0365,
+            "acousticness": 0.617,
+            "instrumentalness": 4.13e-06,
+            "liveness": 0.047,
+            "valence": 0.254,
+            "tempo": 100.159,
+            "type": "audio_features",
+            "id": "0it16By6VcfBXis67YMNbT",
+            "uri": "spotify:track:0it16By6VcfBXis67YMNbT",
+            "track_href": "https://api.spotify.com/v1/tracks/0it16By6VcfBXis67YMNbT",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/0it16By6VcfBXis67YMNbT",
+            "duration_ms": 252200,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "3sX3c6QUPSAiKf77RZRf5B",
+         "name": "Causing a Commotion",
+         "popularity": 46,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+               },
+               "href": "https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW",
+               "id": "6tbjWDEIzxoDsBA1FuhfPW",
+               "name": "Madonna",
+               "type": "artist",
+               "uri": "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+            }
+         ],
+         "features": {
+            "danceability": 0.771,
+            "energy": 0.749,
+            "key": 5,
+            "loudness": -10.628,
+            "mode": 0,
+            "speechiness": 0.0401,
+            "acousticness": 0.216,
+            "instrumentalness": 0.00184,
+            "liveness": 0.135,
+            "valence": 0.854,
+            "tempo": 119.875,
+            "type": "audio_features",
+            "id": "3sX3c6QUPSAiKf77RZRf5B",
+            "uri": "spotify:track:3sX3c6QUPSAiKf77RZRf5B",
+            "track_href": "https://api.spotify.com/v1/tracks/3sX3c6QUPSAiKf77RZRf5B",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3sX3c6QUPSAiKf77RZRf5B",
+            "duration_ms": 261667,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "4P0uyibZjcXZLVeNOHBd8Q",
+         "name": "In Too Deep - 2007 Remaster",
+         "popularity": 49,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+               },
+               "href": "https://api.spotify.com/v1/artists/3CkvROUTQ6nRi9yQOcsB50",
+               "id": "3CkvROUTQ6nRi9yQOcsB50",
+               "name": "Genesis",
+               "type": "artist",
+               "uri": "spotify:artist:3CkvROUTQ6nRi9yQOcsB50"
+            }
+         ],
+         "features": {
+            "danceability": 0.669,
+            "energy": 0.435,
+            "key": 8,
+            "loudness": -9.646,
+            "mode": 1,
+            "speechiness": 0.0244,
+            "acousticness": 0.534,
+            "instrumentalness": 9.51e-06,
+            "liveness": 0.0879,
+            "valence": 0.302,
+            "tempo": 103.548,
+            "type": "audio_features",
+            "id": "4P0uyibZjcXZLVeNOHBd8Q",
+            "uri": "spotify:track:4P0uyibZjcXZLVeNOHBd8Q",
+            "track_href": "https://api.spotify.com/v1/tracks/4P0uyibZjcXZLVeNOHBd8Q",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4P0uyibZjcXZLVeNOHBd8Q",
+            "duration_ms": 298093,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "3333YXdcyths5CB8v28dZj",
+         "name": "Let's Wait Awhile",
+         "popularity": 48,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+               },
+               "href": "https://api.spotify.com/v1/artists/4qwGe91Bz9K2T8jXTZ815W",
+               "id": "4qwGe91Bz9K2T8jXTZ815W",
+               "name": "Janet Jackson",
+               "type": "artist",
+               "uri": "spotify:artist:4qwGe91Bz9K2T8jXTZ815W"
+            }
+         ],
+         "features": {
+            "danceability": 0.592,
+            "energy": 0.2,
+            "key": 1,
+            "loudness": -16.392,
+            "mode": 1,
+            "speechiness": 0.0344,
+            "acousticness": 0.823,
+            "instrumentalness": 0,
+            "liveness": 0.101,
+            "valence": 0.382,
+            "tempo": 172.647,
+            "type": "audio_features",
+            "id": "3333YXdcyths5CB8v28dZj",
+            "uri": "spotify:track:3333YXdcyths5CB8v28dZj",
+            "track_href": "https://api.spotify.com/v1/tracks/3333YXdcyths5CB8v28dZj",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3333YXdcyths5CB8v28dZj",
+            "duration_ms": 277400,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "648BMGrt98kUbLo24A4vgj",
+         "name": "Hip To Be Square",
+         "popularity": 66,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+               },
+               "href": "https://api.spotify.com/v1/artists/7A9yZMTrFZcgEWAX2kBfK6",
+               "id": "7A9yZMTrFZcgEWAX2kBfK6",
+               "name": "Huey Lewis & The News",
+               "type": "artist",
+               "uri": "spotify:artist:7A9yZMTrFZcgEWAX2kBfK6"
+            }
+         ],
+         "features": {
+            "danceability": 0.668,
+            "energy": 0.779,
+            "key": 9,
+            "loudness": -11.089,
+            "mode": 1,
+            "speechiness": 0.0325,
+            "acousticness": 0.0025,
+            "instrumentalness": 0.000347,
+            "liveness": 0.139,
+            "valence": 0.963,
+            "tempo": 140.873,
+            "type": "audio_features",
+            "id": "648BMGrt98kUbLo24A4vgj",
+            "uri": "spotify:track:648BMGrt98kUbLo24A4vgj",
+            "track_href": "https://api.spotify.com/v1/tracks/648BMGrt98kUbLo24A4vgj",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/648BMGrt98kUbLo24A4vgj",
+            "duration_ms": 245467,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "3dn6qXlHYAQpOqMTWxkGOR",
+         "name": "Will You Still Love Me? - 2003 Remaster",
+         "popularity": 55,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+               },
+               "href": "https://api.spotify.com/v1/artists/3iDD7bnsjL9J4fO298r0L0",
+               "id": "3iDD7bnsjL9J4fO298r0L0",
+               "name": "Chicago",
+               "type": "artist",
+               "uri": "spotify:artist:3iDD7bnsjL9J4fO298r0L0"
+            }
+         ],
+         "features": {
+            "danceability": 0.493,
+            "energy": 0.573,
+            "key": 1,
+            "loudness": -7.93,
+            "mode": 1,
+            "speechiness": 0.0282,
+            "acousticness": 0.0896,
+            "instrumentalness": 0,
+            "liveness": 0.0413,
+            "valence": 0.473,
+            "tempo": 77.126,
+            "type": "audio_features",
+            "id": "3dn6qXlHYAQpOqMTWxkGOR",
+            "uri": "spotify:track:3dn6qXlHYAQpOqMTWxkGOR",
+            "track_href": "https://api.spotify.com/v1/tracks/3dn6qXlHYAQpOqMTWxkGOR",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3dn6qXlHYAQpOqMTWxkGOR",
+            "duration_ms": 252600,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "5uw9UIOXj6R8pOwXte8F5h",
+         "name": "Little Lies",
+         "popularity": 0,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+               },
+               "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X",
+               "id": "08GQAI4eElDnROBrJRGE0X",
+               "name": "Fleetwood Mac",
+               "type": "artist",
+               "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X"
+            }
+         ],
+         "features": {
+            "danceability": 0.63,
+            "energy": 0.688,
+            "key": 2,
+            "loudness": -9.816,
+            "mode": 1,
+            "speechiness": 0.0266,
+            "acousticness": 0.124,
+            "instrumentalness": 4.78e-05,
+            "liveness": 0.158,
+            "valence": 0.893,
+            "tempo": 124.825,
+            "type": "audio_features",
+            "id": "5uw9UIOXj6R8pOwXte8F5h",
+            "uri": "spotify:track:5uw9UIOXj6R8pOwXte8F5h",
+            "track_href": "https://api.spotify.com/v1/tracks/5uw9UIOXj6R8pOwXte8F5h",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5uw9UIOXj6R8pOwXte8F5h",
+            "duration_ms": 218040,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "6OtKL4zUA9WazCB7P03d6N",
+         "name": "Luka",
+         "popularity": 0,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+               },
+               "href": "https://api.spotify.com/v1/artists/3X0tJzVYoWlfjLYI0Ridsw",
+               "id": "3X0tJzVYoWlfjLYI0Ridsw",
+               "name": "Suzanne Vega",
+               "type": "artist",
+               "uri": "spotify:artist:3X0tJzVYoWlfjLYI0Ridsw"
+            }
+         ],
+         "features": {
+            "danceability": 0.55,
+            "energy": 0.226,
+            "key": 6,
+            "loudness": -10.429,
+            "mode": 1,
+            "speechiness": 0.038,
+            "acousticness": 0.863,
+            "instrumentalness": 1.67e-06,
+            "liveness": 0.112,
+            "valence": 0.723,
+            "tempo": 93.076,
+            "type": "audio_features",
+            "id": "6OtKL4zUA9WazCB7P03d6N",
+            "uri": "spotify:track:6OtKL4zUA9WazCB7P03d6N",
+            "track_href": "https://api.spotify.com/v1/tracks/6OtKL4zUA9WazCB7P03d6N",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6OtKL4zUA9WazCB7P03d6N",
+            "duration_ms": 192973,
+            "time_signature": 3
+         }
+      },
+      {
+         "id": "0tW6lCSXIZgo0xCVLwCbjE",
+         "name": "I Heard a Rumour",
+         "popularity": 0,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
+               },
+               "href": "https://api.spotify.com/v1/artists/3sc7iUG1Wwpwx7bHeZolgx",
+               "id": "3sc7iUG1Wwpwx7bHeZolgx",
+               "name": "Bananarama",
+               "type": "artist",
+               "uri": "spotify:artist:3sc7iUG1Wwpwx7bHeZolgx"
+            }
+         ],
+         "features": {
+            "danceability": 0.666,
+            "energy": 0.962,
+            "key": 11,
+            "loudness": -4.087,
+            "mode": 0,
+            "speechiness": 0.038,
+            "acousticness": 0.0977,
+            "instrumentalness": 5.4e-05,
+            "liveness": 0.196,
+            "valence": 0.92,
+            "tempo": 123.372,
+            "type": "audio_features",
+            "id": "0tW6lCSXIZgo0xCVLwCbjE",
+            "uri": "spotify:track:0tW6lCSXIZgo0xCVLwCbjE",
+            "track_href": "https://api.spotify.com/v1/tracks/0tW6lCSXIZgo0xCVLwCbjE",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/0tW6lCSXIZgo0xCVLwCbjE",
+            "duration_ms": 204336,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "4ujVRZd9HdjepbpWSddABF",
+         "name": "Don't Mean Nothing",
+         "popularity": 46,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+               },
+               "href": "https://api.spotify.com/v1/artists/0grdhNhiRLFBaFVyybqsj6",
+               "id": "0grdhNhiRLFBaFVyybqsj6",
+               "name": "Richard Marx",
+               "type": "artist",
+               "uri": "spotify:artist:0grdhNhiRLFBaFVyybqsj6"
+            }
+         ],
+         "features": {
+            "danceability": 0.673,
+            "energy": 0.765,
+            "key": 5,
+            "loudness": -10.615,
+            "mode": 1,
+            "speechiness": 0.0256,
+            "acousticness": 0.0439,
+            "instrumentalness": 3.43e-05,
+            "liveness": 0.107,
+            "valence": 0.779,
+            "tempo": 98.241,
+            "type": "audio_features",
+            "id": "4ujVRZd9HdjepbpWSddABF",
+            "uri": "spotify:track:4ujVRZd9HdjepbpWSddABF",
+            "track_href": "https://api.spotify.com/v1/tracks/4ujVRZd9HdjepbpWSddABF",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4ujVRZd9HdjepbpWSddABF",
+            "duration_ms": 281533,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "5FFRm8vumNUnq5AGdoMasg",
+         "name": "Songbird",
+         "popularity": 20,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
+               },
+               "href": "https://api.spotify.com/v1/artists/6I3M904Y9IwgDjrQ9pANiB",
+               "id": "6I3M904Y9IwgDjrQ9pANiB",
+               "name": "Kenny G",
+               "type": "artist",
+               "uri": "spotify:artist:6I3M904Y9IwgDjrQ9pANiB"
+            }
+         ],
+         "features": {
+            "danceability": 0.471,
+            "energy": 0.464,
+            "key": 7,
+            "loudness": -9.25,
+            "mode": 1,
+            "speechiness": 0.0301,
+            "acousticness": 0.0583,
+            "instrumentalness": 0.865,
+            "liveness": 0.12,
+            "valence": 0.123,
+            "tempo": 135.488,
+            "type": "audio_features",
+            "id": "5FFRm8vumNUnq5AGdoMasg",
+            "uri": "spotify:track:5FFRm8vumNUnq5AGdoMasg",
+            "track_href": "https://api.spotify.com/v1/tracks/5FFRm8vumNUnq5AGdoMasg",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5FFRm8vumNUnq5AGdoMasg",
+            "duration_ms": 302773,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "29wJiSQcze8HEmxkUQykyp",
+         "name": "Carrie",
+         "popularity": 70,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+               },
+               "href": "https://api.spotify.com/v1/artists/7Js6Lde8thlIHXggv2SCBz",
+               "id": "7Js6Lde8thlIHXggv2SCBz",
+               "name": "Europe",
+               "type": "artist",
+               "uri": "spotify:artist:7Js6Lde8thlIHXggv2SCBz"
+            }
+         ],
+         "features": {
+            "danceability": 0.455,
+            "energy": 0.487,
+            "key": 7,
+            "loudness": -7.112,
+            "mode": 1,
+            "speechiness": 0.0264,
+            "acousticness": 0.114,
+            "instrumentalness": 2.43e-06,
+            "liveness": 0.358,
+            "valence": 0.139,
+            "tempo": 136.482,
+            "type": "audio_features",
+            "id": "29wJiSQcze8HEmxkUQykyp",
+            "uri": "spotify:track:29wJiSQcze8HEmxkUQykyp",
+            "track_href": "https://api.spotify.com/v1/tracks/29wJiSQcze8HEmxkUQykyp",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/29wJiSQcze8HEmxkUQykyp",
+            "duration_ms": 272133,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "2vZdRP2nJUMtJvfsDkrg9m",
+         "name": "Don't Disturb This Groove",
+         "popularity": 0,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/67NN7SgdxKesGnxZOB8YeX"
+               },
+               "href": "https://api.spotify.com/v1/artists/67NN7SgdxKesGnxZOB8YeX",
+               "id": "67NN7SgdxKesGnxZOB8YeX",
+               "name": "The System",
+               "type": "artist",
+               "uri": "spotify:artist:67NN7SgdxKesGnxZOB8YeX"
+            }
+         ],
+         "features": {
+            "danceability": 0.418,
+            "energy": 0.83,
+            "key": 9,
+            "loudness": -10.243,
+            "mode": 1,
+            "speechiness": 0.0464,
+            "acousticness": 0.372,
+            "instrumentalness": 4.96e-06,
+            "liveness": 0.0881,
+            "valence": 0.903,
+            "tempo": 79.229,
+            "type": "audio_features",
+            "id": "2vZdRP2nJUMtJvfsDkrg9m",
+            "uri": "spotify:track:2vZdRP2nJUMtJvfsDkrg9m",
+            "track_href": "https://api.spotify.com/v1/tracks/2vZdRP2nJUMtJvfsDkrg9m",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2vZdRP2nJUMtJvfsDkrg9m",
+            "duration_ms": 320107,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "2Iib2MV3ECFJAourgP9dlY",
+         "name": "La Isla Bonita",
+         "popularity": 64,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+               },
+               "href": "https://api.spotify.com/v1/artists/6tbjWDEIzxoDsBA1FuhfPW",
+               "id": "6tbjWDEIzxoDsBA1FuhfPW",
+               "name": "Madonna",
+               "type": "artist",
+               "uri": "spotify:artist:6tbjWDEIzxoDsBA1FuhfPW"
+            }
+         ],
+         "features": {
+            "danceability": 0.708,
+            "energy": 0.832,
+            "key": 1,
+            "loudness": -4.736,
+            "mode": 0,
+            "speechiness": 0.0362,
+            "acousticness": 0.392,
+            "instrumentalness": 1.33e-06,
+            "liveness": 0.0561,
+            "valence": 0.968,
+            "tempo": 99.953,
+            "type": "audio_features",
+            "id": "2Iib2MV3ECFJAourgP9dlY",
+            "uri": "spotify:track:2Iib2MV3ECFJAourgP9dlY",
+            "track_href": "https://api.spotify.com/v1/tracks/2Iib2MV3ECFJAourgP9dlY",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2Iib2MV3ECFJAourgP9dlY",
+            "duration_ms": 242947,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "5dQ51PaLQPl1vkL4wFBYON",
+         "name": "Bad",
+         "popularity": 40,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+               },
+               "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm",
+               "id": "3fMbdgg4jU18AjLCKBhRSm",
+               "name": "Michael Jackson",
+               "type": "artist",
+               "uri": "spotify:artist:3fMbdgg4jU18AjLCKBhRSm"
+            }
+         ],
+         "features": {
+            "danceability": 0.805,
+            "energy": 0.851,
+            "key": 8,
+            "loudness": -5.47,
+            "mode": 1,
+            "speechiness": 0.0465,
+            "acousticness": 0.00798,
+            "instrumentalness": 0.186,
+            "liveness": 0.0511,
+            "valence": 0.351,
+            "tempo": 114.13,
+            "type": "audio_features",
+            "id": "5dQ51PaLQPl1vkL4wFBYON",
+            "uri": "spotify:track:5dQ51PaLQPl1vkL4wFBYON",
+            "track_href": "https://api.spotify.com/v1/tracks/5dQ51PaLQPl1vkL4wFBYON",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5dQ51PaLQPl1vkL4wFBYON",
+            "duration_ms": 247693,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "5lHWWhuRtSBKfH2xS6YAUD",
+         "name": "Sign 'O' the Times - Single Version",
+         "popularity": 31,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+               },
+               "href": "https://api.spotify.com/v1/artists/5a2EaR3hamoenG9rDuVn8j",
+               "id": "5a2EaR3hamoenG9rDuVn8j",
+               "name": "Prince",
+               "type": "artist",
+               "uri": "spotify:artist:5a2EaR3hamoenG9rDuVn8j"
+            }
+         ],
+         "features": {
+            "danceability": 0.825,
+            "energy": 0.393,
+            "key": 10,
+            "loudness": -10.875,
+            "mode": 0,
+            "speechiness": 0.0771,
+            "acousticness": 0.039,
+            "instrumentalness": 0.000908,
+            "liveness": 0.0609,
+            "valence": 0.62,
+            "tempo": 98.94,
+            "type": "audio_features",
+            "id": "5lHWWhuRtSBKfH2xS6YAUD",
+            "uri": "spotify:track:5lHWWhuRtSBKfH2xS6YAUD",
+            "track_href": "https://api.spotify.com/v1/tracks/5lHWWhuRtSBKfH2xS6YAUD",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5lHWWhuRtSBKfH2xS6YAUD",
+            "duration_ms": 223507,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "4Kvz5bhHNYPSaGnQ7PsTBi",
+         "name": "Change of Heart",
+         "popularity": 43,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+               },
+               "href": "https://api.spotify.com/v1/artists/2BTZIqw0ntH9MvilQ3ewNY",
+               "id": "2BTZIqw0ntH9MvilQ3ewNY",
+               "name": "Cyndi Lauper",
+               "type": "artist",
+               "uri": "spotify:artist:2BTZIqw0ntH9MvilQ3ewNY"
+            }
+         ],
+         "features": {
+            "danceability": 0.706,
+            "energy": 0.847,
+            "key": 1,
+            "loudness": -6.134,
+            "mode": 1,
+            "speechiness": 0.0831,
+            "acousticness": 0.226,
+            "instrumentalness": 0.000104,
+            "liveness": 0.0632,
+            "valence": 0.495,
+            "tempo": 119.768,
+            "type": "audio_features",
+            "id": "4Kvz5bhHNYPSaGnQ7PsTBi",
+            "uri": "spotify:track:4Kvz5bhHNYPSaGnQ7PsTBi",
+            "track_href": "https://api.spotify.com/v1/tracks/4Kvz5bhHNYPSaGnQ7PsTBi",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4Kvz5bhHNYPSaGnQ7PsTBi",
+            "duration_ms": 264773,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "5CMfppUYFwdvH8pZ5HRJbS",
+         "name": "Come Go with Me",
+         "popularity": 40,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5nPz5R1FDPTMI3Dw4JnTGb"
+               },
+               "href": "https://api.spotify.com/v1/artists/5nPz5R1FDPTMI3Dw4JnTGb",
+               "id": "5nPz5R1FDPTMI3Dw4JnTGb",
+               "name": "Exposé",
+               "type": "artist",
+               "uri": "spotify:artist:5nPz5R1FDPTMI3Dw4JnTGb"
+            }
+         ],
+         "features": {
+            "danceability": 0.596,
+            "energy": 0.732,
+            "key": 7,
+            "loudness": -9.356,
+            "mode": 1,
+            "speechiness": 0.0366,
+            "acousticness": 0.00592,
+            "instrumentalness": 0.0214,
+            "liveness": 0.0568,
+            "valence": 0.805,
+            "tempo": 120.116,
+            "type": "audio_features",
+            "id": "5CMfppUYFwdvH8pZ5HRJbS",
+            "uri": "spotify:track:5CMfppUYFwdvH8pZ5HRJbS",
+            "track_href": "https://api.spotify.com/v1/tracks/5CMfppUYFwdvH8pZ5HRJbS",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5CMfppUYFwdvH8pZ5HRJbS",
+            "duration_ms": 258333,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "0x1RspO36DgmXbZ9XmxvsN",
+         "name": "Can't We Try - Single Version",
+         "popularity": 49,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5rOhfAsK4uxq9OdREiQRKa"
+               },
+               "href": "https://api.spotify.com/v1/artists/5rOhfAsK4uxq9OdREiQRKa",
+               "id": "5rOhfAsK4uxq9OdREiQRKa",
+               "name": "Dan Hill",
+               "type": "artist",
+               "uri": "spotify:artist:5rOhfAsK4uxq9OdREiQRKa"
+            },
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0dhxm9QdU7nzflPS6xGQ8P"
+               },
+               "href": "https://api.spotify.com/v1/artists/0dhxm9QdU7nzflPS6xGQ8P",
+               "id": "0dhxm9QdU7nzflPS6xGQ8P",
+               "name": "Vonda Shepard",
+               "type": "artist",
+               "uri": "spotify:artist:0dhxm9QdU7nzflPS6xGQ8P"
+            }
+         ],
+         "features": {
+            "danceability": 0.561,
+            "energy": 0.319,
+            "key": 9,
+            "loudness": -13.418,
+            "mode": 0,
+            "speechiness": 0.0313,
+            "acousticness": 0.466,
+            "instrumentalness": 0,
+            "liveness": 0.0684,
+            "valence": 0.329,
+            "tempo": 120.106,
+            "type": "audio_features",
+            "id": "0x1RspO36DgmXbZ9XmxvsN",
+            "uri": "spotify:track:0x1RspO36DgmXbZ9XmxvsN",
+            "track_href": "https://api.spotify.com/v1/tracks/0x1RspO36DgmXbZ9XmxvsN",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/0x1RspO36DgmXbZ9XmxvsN",
+            "duration_ms": 239667,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "66c7uXiQLsw3LpuhGlGNAi",
+         "name": "To Be A Lover - Remastered",
+         "popularity": 30,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+               },
+               "href": "https://api.spotify.com/v1/artists/7lzordPuZEXxwt9aoVZYmG",
+               "id": "7lzordPuZEXxwt9aoVZYmG",
+               "name": "Billy Idol",
+               "type": "artist",
+               "uri": "spotify:artist:7lzordPuZEXxwt9aoVZYmG"
+            }
+         ],
+         "features": {
+            "danceability": 0.563,
+            "energy": 0.822,
+            "key": 5,
+            "loudness": -6.275,
+            "mode": 1,
+            "speechiness": 0.0485,
+            "acousticness": 0.18,
+            "instrumentalness": 0.00341,
+            "liveness": 0.0852,
+            "valence": 0.52,
+            "tempo": 184.423,
+            "type": "audio_features",
+            "id": "66c7uXiQLsw3LpuhGlGNAi",
+            "uri": "spotify:track:66c7uXiQLsw3LpuhGlGNAi",
+            "track_href": "https://api.spotify.com/v1/tracks/66c7uXiQLsw3LpuhGlGNAi",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/66c7uXiQLsw3LpuhGlGNAi",
+            "duration_ms": 233507,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "3T8Ye4NB0MQhcEcxzMdAuH",
+         "name": "Mandolin Rain",
+         "popularity": 55,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2iM28IgKg89v1o7BTQAVPo"
+               },
+               "href": "https://api.spotify.com/v1/artists/2iM28IgKg89v1o7BTQAVPo",
+               "id": "2iM28IgKg89v1o7BTQAVPo",
+               "name": "Bruce Hornsby",
+               "type": "artist",
+               "uri": "spotify:artist:2iM28IgKg89v1o7BTQAVPo"
+            },
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4374DY0rBAi0pCV6F9i00Y"
+               },
+               "href": "https://api.spotify.com/v1/artists/4374DY0rBAi0pCV6F9i00Y",
+               "id": "4374DY0rBAi0pCV6F9i00Y",
+               "name": "The Range",
+               "type": "artist",
+               "uri": "spotify:artist:4374DY0rBAi0pCV6F9i00Y"
+            }
+         ],
+         "features": {
+            "danceability": 0.563,
+            "energy": 0.421,
+            "key": 7,
+            "loudness": -12.567,
+            "mode": 1,
+            "speechiness": 0.0311,
+            "acousticness": 0.822,
+            "instrumentalness": 2.28e-05,
+            "liveness": 0.122,
+            "valence": 0.463,
+            "tempo": 139.374,
+            "type": "audio_features",
+            "id": "3T8Ye4NB0MQhcEcxzMdAuH",
+            "uri": "spotify:track:3T8Ye4NB0MQhcEcxzMdAuH",
+            "track_href": "https://api.spotify.com/v1/tracks/3T8Ye4NB0MQhcEcxzMdAuH",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3T8Ye4NB0MQhcEcxzMdAuH",
+            "duration_ms": 318947,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "6O5G3YcWmKqaLLMlCl0Xjj",
+         "name": "Breakout",
+         "popularity": 29,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4phr5rAgWhcZtWJu8w8lKv"
+               },
+               "href": "https://api.spotify.com/v1/artists/4phr5rAgWhcZtWJu8w8lKv",
+               "id": "4phr5rAgWhcZtWJu8w8lKv",
+               "name": "Swing Out Sister",
+               "type": "artist",
+               "uri": "spotify:artist:4phr5rAgWhcZtWJu8w8lKv"
+            }
+         ],
+         "features": {
+            "danceability": 0.671,
+            "energy": 0.718,
+            "key": 9,
+            "loudness": -7.898,
+            "mode": 1,
+            "speechiness": 0.0286,
+            "acousticness": 0.122,
+            "instrumentalness": 0.0169,
+            "liveness": 0.0525,
+            "valence": 0.733,
+            "tempo": 113.126,
+            "type": "audio_features",
+            "id": "6O5G3YcWmKqaLLMlCl0Xjj",
+            "uri": "spotify:track:6O5G3YcWmKqaLLMlCl0Xjj",
+            "track_href": "https://api.spotify.com/v1/tracks/6O5G3YcWmKqaLLMlCl0Xjj",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6O5G3YcWmKqaLLMlCl0Xjj",
+            "duration_ms": 228000,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "2lzbKVKSUVeb01ytbHA8PS",
+         "name": "Stand by Me",
+         "popularity": 42,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+               },
+               "href": "https://api.spotify.com/v1/artists/3plJVWt88EqjvtuB4ZDRV3",
+               "id": "3plJVWt88EqjvtuB4ZDRV3",
+               "name": "Ben E. King",
+               "type": "artist",
+               "uri": "spotify:artist:3plJVWt88EqjvtuB4ZDRV3"
+            }
+         ],
+         "features": {
+            "danceability": 0.668,
+            "energy": 0.271,
+            "key": 9,
+            "loudness": -10.321,
+            "mode": 1,
+            "speechiness": 0.0379,
+            "acousticness": 0.5,
+            "instrumentalness": 2.53e-06,
+            "liveness": 0.233,
+            "valence": 0.694,
+            "tempo": 119.08,
+            "type": "audio_features",
+            "id": "2lzbKVKSUVeb01ytbHA8PS",
+            "uri": "spotify:track:2lzbKVKSUVeb01ytbHA8PS",
+            "track_href": "https://api.spotify.com/v1/tracks/2lzbKVKSUVeb01ytbHA8PS",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2lzbKVKSUVeb01ytbHA8PS",
+            "duration_ms": 174800,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "5Djof0IgvGDl5RN0TZnNgT",
+         "name": "Tonight, Tonight, Tonight",
+         "popularity": 32,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+               },
+               "href": "https://api.spotify.com/v1/artists/3CkvROUTQ6nRi9yQOcsB50",
+               "id": "3CkvROUTQ6nRi9yQOcsB50",
+               "name": "Genesis",
+               "type": "artist",
+               "uri": "spotify:artist:3CkvROUTQ6nRi9yQOcsB50"
+            }
+         ],
+         "features": {
+            "danceability": 0.599,
+            "energy": 0.741,
+            "key": 7,
+            "loudness": -7.015,
+            "mode": 1,
+            "speechiness": 0.031,
+            "acousticness": 0.0497,
+            "instrumentalness": 0.00143,
+            "liveness": 0.162,
+            "valence": 0.328,
+            "tempo": 98.063,
+            "type": "audio_features",
+            "id": "5Djof0IgvGDl5RN0TZnNgT",
+            "uri": "spotify:track:5Djof0IgvGDl5RN0TZnNgT",
+            "track_href": "https://api.spotify.com/v1/tracks/5Djof0IgvGDl5RN0TZnNgT",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5Djof0IgvGDl5RN0TZnNgT",
+            "duration_ms": 268307,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "5WK0KIZmq3H0FpQ6O4Wkrz",
+         "name": "Someday",
+         "popularity": 38,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/53RaPTbZOx2mBoZD6LLWIv"
+               },
+               "href": "https://api.spotify.com/v1/artists/53RaPTbZOx2mBoZD6LLWIv",
+               "id": "53RaPTbZOx2mBoZD6LLWIv",
+               "name": "Glass Tiger",
+               "type": "artist",
+               "uri": "spotify:artist:53RaPTbZOx2mBoZD6LLWIv"
+            }
+         ],
+         "features": {
+            "danceability": 0.636,
+            "energy": 0.627,
+            "key": 2,
+            "loudness": -11.175,
+            "mode": 1,
+            "speechiness": 0.0282,
+            "acousticness": 0.212,
+            "instrumentalness": 0,
+            "liveness": 0.0861,
+            "valence": 0.721,
+            "tempo": 100.187,
+            "type": "audio_features",
+            "id": "5WK0KIZmq3H0FpQ6O4Wkrz",
+            "uri": "spotify:track:5WK0KIZmq3H0FpQ6O4Wkrz",
+            "track_href": "https://api.spotify.com/v1/tracks/5WK0KIZmq3H0FpQ6O4Wkrz",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5WK0KIZmq3H0FpQ6O4Wkrz",
+            "duration_ms": 217693,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "5O1gjRyWVqZAECJOSDYUGJ",
+         "name": "When Smokey Sings",
+         "popularity": 27,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2s79xe5F6eUQkjwjww27Fh"
+               },
+               "href": "https://api.spotify.com/v1/artists/2s79xe5F6eUQkjwjww27Fh",
+               "id": "2s79xe5F6eUQkjwjww27Fh",
+               "name": "ABC",
+               "type": "artist",
+               "uri": "spotify:artist:2s79xe5F6eUQkjwjww27Fh"
+            }
+         ],
+         "features": {
+            "danceability": 0.697,
+            "energy": 0.84,
+            "key": 5,
+            "loudness": -6.578,
+            "mode": 1,
+            "speechiness": 0.0292,
+            "acousticness": 0.129,
+            "instrumentalness": 0.00316,
+            "liveness": 0.369,
+            "valence": 0.877,
+            "tempo": 126.317,
+            "type": "audio_features",
+            "id": "5O1gjRyWVqZAECJOSDYUGJ",
+            "uri": "spotify:track:5O1gjRyWVqZAECJOSDYUGJ",
+            "track_href": "https://api.spotify.com/v1/tracks/5O1gjRyWVqZAECJOSDYUGJ",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5O1gjRyWVqZAECJOSDYUGJ",
+            "duration_ms": 260600,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "1O7hDH3rrF8eyLxrpeoOfb",
+         "name": "Casanova",
+         "popularity": 55,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0G7OYsWptjRzVFT1AxP8TS"
+               },
+               "href": "https://api.spotify.com/v1/artists/0G7OYsWptjRzVFT1AxP8TS",
+               "id": "0G7OYsWptjRzVFT1AxP8TS",
+               "name": "Levert",
+               "type": "artist",
+               "uri": "spotify:artist:0G7OYsWptjRzVFT1AxP8TS"
+            }
+         ],
+         "features": {
+            "danceability": 0.711,
+            "energy": 0.844,
+            "key": 4,
+            "loudness": -3.927,
+            "mode": 0,
+            "speechiness": 0.0891,
+            "acousticness": 0.0447,
+            "instrumentalness": 1.18e-05,
+            "liveness": 0.0672,
+            "valence": 0.802,
+            "tempo": 92.956,
+            "type": "audio_features",
+            "id": "1O7hDH3rrF8eyLxrpeoOfb",
+            "uri": "spotify:track:1O7hDH3rrF8eyLxrpeoOfb",
+            "track_href": "https://api.spotify.com/v1/tracks/1O7hDH3rrF8eyLxrpeoOfb",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/1O7hDH3rrF8eyLxrpeoOfb",
+            "duration_ms": 262373,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "6302KY4zq4Bpx823hyk4Kk",
+         "name": "Rhythm Is Gonna Get You",
+         "popularity": 42,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2Gop8SbSVt5SaJzuaRFa7D"
+               },
+               "href": "https://api.spotify.com/v1/artists/2Gop8SbSVt5SaJzuaRFa7D",
+               "id": "2Gop8SbSVt5SaJzuaRFa7D",
+               "name": "Gloria Estefan And Miami Sound Machine",
+               "type": "artist",
+               "uri": "spotify:artist:2Gop8SbSVt5SaJzuaRFa7D"
+            },
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F"
+               },
+               "href": "https://api.spotify.com/v1/artists/18xgcedCGxFbqLbIQn5R8F",
+               "id": "18xgcedCGxFbqLbIQn5R8F",
+               "name": "Miami Sound Machine",
+               "type": "artist",
+               "uri": "spotify:artist:18xgcedCGxFbqLbIQn5R8F"
+            }
+         ],
+         "features": {
+            "danceability": 0.782,
+            "energy": 0.855,
+            "key": 4,
+            "loudness": -8.611,
+            "mode": 0,
+            "speechiness": 0.0365,
+            "acousticness": 0.197,
+            "instrumentalness": 0.0442,
+            "liveness": 0.18,
+            "valence": 0.849,
+            "tempo": 124.981,
+            "type": "audio_features",
+            "id": "6302KY4zq4Bpx823hyk4Kk",
+            "uri": "spotify:track:6302KY4zq4Bpx823hyk4Kk",
+            "track_href": "https://api.spotify.com/v1/tracks/6302KY4zq4Bpx823hyk4Kk",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6302KY4zq4Bpx823hyk4Kk",
+            "duration_ms": 235427,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "4xGyNXNjL8tHkLJEqf2BRs",
+         "name": "Rock Steady",
+         "popularity": 23,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg"
+               },
+               "href": "https://api.spotify.com/v1/artists/2XzHxDFTNywDd5ReMhgxkg",
+               "id": "2XzHxDFTNywDd5ReMhgxkg",
+               "name": "The Whispers",
+               "type": "artist",
+               "uri": "spotify:artist:2XzHxDFTNywDd5ReMhgxkg"
+            }
+         ],
+         "features": {
+            "danceability": 0.689,
+            "energy": 0.798,
+            "key": 5,
+            "loudness": -10.279,
+            "mode": 0,
+            "speechiness": 0.0995,
+            "acousticness": 0.258,
+            "instrumentalness": 6.94e-06,
+            "liveness": 0.687,
+            "valence": 0.639,
+            "tempo": 123.989,
+            "type": "audio_features",
+            "id": "4xGyNXNjL8tHkLJEqf2BRs",
+            "uri": "spotify:track:4xGyNXNjL8tHkLJEqf2BRs",
+            "track_href": "https://api.spotify.com/v1/tracks/4xGyNXNjL8tHkLJEqf2BRs",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4xGyNXNjL8tHkLJEqf2BRs",
+            "duration_ms": 478473,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "4Zj9VM4fO1KwkU3lFaECsW",
+         "name": "Wanted Dead Or Alive",
+         "popularity": 19,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+               },
+               "href": "https://api.spotify.com/v1/artists/58lV9VcRSjABbAbfWS6skp",
+               "id": "58lV9VcRSjABbAbfWS6skp",
+               "name": "Bon Jovi",
+               "type": "artist",
+               "uri": "spotify:artist:58lV9VcRSjABbAbfWS6skp"
+            }
+         ],
+         "features": {
+            "danceability": 0.257,
+            "energy": 0.819,
+            "key": 7,
+            "loudness": -3.562,
+            "mode": 1,
+            "speechiness": 0.0422,
+            "acousticness": 0.085,
+            "instrumentalness": 0.015,
+            "liveness": 0.324,
+            "valence": 0.267,
+            "tempo": 150.354,
+            "type": "audio_features",
+            "id": "4Zj9VM4fO1KwkU3lFaECsW",
+            "uri": "spotify:track:4Zj9VM4fO1KwkU3lFaECsW",
+            "track_href": "https://api.spotify.com/v1/tracks/4Zj9VM4fO1KwkU3lFaECsW",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4Zj9VM4fO1KwkU3lFaECsW",
+            "duration_ms": 308560,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "3W5EcI4psPUHg6Wthw9JdX",
+         "name": "Big Time",
+         "popularity": 0,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/23i5dMV7p0CSMcUBXk09lA"
+               },
+               "href": "https://api.spotify.com/v1/artists/23i5dMV7p0CSMcUBXk09lA",
+               "id": "23i5dMV7p0CSMcUBXk09lA",
+               "name": "Hardage",
+               "type": "artist",
+               "uri": "spotify:artist:23i5dMV7p0CSMcUBXk09lA"
+            },
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+               },
+               "href": "https://api.spotify.com/v1/artists/7C4sUpWGlTy7IANjruj02I",
+               "id": "7C4sUpWGlTy7IANjruj02I",
+               "name": "Peter Gabriel",
+               "type": "artist",
+               "uri": "spotify:artist:7C4sUpWGlTy7IANjruj02I"
+            }
+         ],
+         "features": {
+            "danceability": 0.788,
+            "energy": 0.726,
+            "key": 6,
+            "loudness": -11.662,
+            "mode": 0,
+            "speechiness": 0.0381,
+            "acousticness": 0.0883,
+            "instrumentalness": 0.346,
+            "liveness": 0.0843,
+            "valence": 0.545,
+            "tempo": 124.976,
+            "type": "audio_features",
+            "id": "3W5EcI4psPUHg6Wthw9JdX",
+            "uri": "spotify:track:3W5EcI4psPUHg6Wthw9JdX",
+            "track_href": "https://api.spotify.com/v1/tracks/3W5EcI4psPUHg6Wthw9JdX",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3W5EcI4psPUHg6Wthw9JdX",
+            "duration_ms": 429867,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "0qrOEuhMXqAyMMyfOCZ2yC",
+         "name": "The Finer Things",
+         "popularity": 45,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+               },
+               "href": "https://api.spotify.com/v1/artists/5gxynDEKwNDgxGJmJjZyte",
+               "id": "5gxynDEKwNDgxGJmJjZyte",
+               "name": "Steve Winwood",
+               "type": "artist",
+               "uri": "spotify:artist:5gxynDEKwNDgxGJmJjZyte"
+            }
+         ],
+         "features": {
+            "danceability": 0.782,
+            "energy": 0.713,
+            "key": 2,
+            "loudness": -6.999,
+            "mode": 0,
+            "speechiness": 0.0325,
+            "acousticness": 0.179,
+            "instrumentalness": 0.0321,
+            "liveness": 0.105,
+            "valence": 0.572,
+            "tempo": 124.674,
+            "type": "audio_features",
+            "id": "0qrOEuhMXqAyMMyfOCZ2yC",
+            "uri": "spotify:track:0qrOEuhMXqAyMMyfOCZ2yC",
+            "track_href": "https://api.spotify.com/v1/tracks/0qrOEuhMXqAyMMyfOCZ2yC",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/0qrOEuhMXqAyMMyfOCZ2yC",
+            "duration_ms": 251200,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "3t14IyH0Pwz1E7oMJZD1u5",
+         "name": "Let Me Be The One",
+         "popularity": 34,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5nPz5R1FDPTMI3Dw4JnTGb"
+               },
+               "href": "https://api.spotify.com/v1/artists/5nPz5R1FDPTMI3Dw4JnTGb",
+               "id": "5nPz5R1FDPTMI3Dw4JnTGb",
+               "name": "Exposé",
+               "type": "artist",
+               "uri": "spotify:artist:5nPz5R1FDPTMI3Dw4JnTGb"
+            }
+         ],
+         "features": {
+            "danceability": 0.659,
+            "energy": 0.754,
+            "key": 1,
+            "loudness": -9.082,
+            "mode": 0,
+            "speechiness": 0.0396,
+            "acousticness": 0.028,
+            "instrumentalness": 0.00898,
+            "liveness": 0.289,
+            "valence": 0.887,
+            "tempo": 105.409,
+            "type": "audio_features",
+            "id": "3t14IyH0Pwz1E7oMJZD1u5",
+            "uri": "spotify:track:3t14IyH0Pwz1E7oMJZD1u5",
+            "track_href": "https://api.spotify.com/v1/tracks/3t14IyH0Pwz1E7oMJZD1u5",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3t14IyH0Pwz1E7oMJZD1u5",
+            "duration_ms": 261227,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "7fgiQqfZFQ9e65Kbe5yNBX",
+         "name": "Is This Love",
+         "popularity": 16,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+               },
+               "href": "https://api.spotify.com/v1/artists/26bcq2nyj5GB7uRr558iQg",
+               "id": "26bcq2nyj5GB7uRr558iQg",
+               "name": "Survivor",
+               "type": "artist",
+               "uri": "spotify:artist:26bcq2nyj5GB7uRr558iQg"
+            }
+         ],
+         "features": {
+            "danceability": 0.686,
+            "energy": 0.736,
+            "key": 8,
+            "loudness": -9.987,
+            "mode": 1,
+            "speechiness": 0.0305,
+            "acousticness": 0.514,
+            "instrumentalness": 0,
+            "liveness": 0.0461,
+            "valence": 0.774,
+            "tempo": 118.258,
+            "type": "audio_features",
+            "id": "7fgiQqfZFQ9e65Kbe5yNBX",
+            "uri": "spotify:track:7fgiQqfZFQ9e65Kbe5yNBX",
+            "track_href": "https://api.spotify.com/v1/tracks/7fgiQqfZFQ9e65Kbe5yNBX",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/7fgiQqfZFQ9e65Kbe5yNBX",
+            "duration_ms": 222813,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "4xu6en3eu5gt7fVlMZanzv",
+         "name": "Point of No Return - 7\" Version",
+         "popularity": 29,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/5nPz5R1FDPTMI3Dw4JnTGb"
+               },
+               "href": "https://api.spotify.com/v1/artists/5nPz5R1FDPTMI3Dw4JnTGb",
+               "id": "5nPz5R1FDPTMI3Dw4JnTGb",
+               "name": "Exposé",
+               "type": "artist",
+               "uri": "spotify:artist:5nPz5R1FDPTMI3Dw4JnTGb"
+            }
+         ],
+         "features": {
+            "danceability": 0.595,
+            "energy": 0.838,
+            "key": 0,
+            "loudness": -8.426,
+            "mode": 1,
+            "speechiness": 0.0411,
+            "acousticness": 0.00296,
+            "instrumentalness": 0.0022,
+            "liveness": 0.0976,
+            "valence": 0.847,
+            "tempo": 120.033,
+            "type": "audio_features",
+            "id": "4xu6en3eu5gt7fVlMZanzv",
+            "uri": "spotify:track:4xu6en3eu5gt7fVlMZanzv",
+            "track_href": "https://api.spotify.com/v1/tracks/4xu6en3eu5gt7fVlMZanzv",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4xu6en3eu5gt7fVlMZanzv",
+            "duration_ms": 207960,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "4npQqHOi5Zxxyw1oarSivu",
+         "name": "Big Love",
+         "popularity": 0,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+               },
+               "href": "https://api.spotify.com/v1/artists/08GQAI4eElDnROBrJRGE0X",
+               "id": "08GQAI4eElDnROBrJRGE0X",
+               "name": "Fleetwood Mac",
+               "type": "artist",
+               "uri": "spotify:artist:08GQAI4eElDnROBrJRGE0X"
+            }
+         ],
+         "features": {
+            "danceability": 0.639,
+            "energy": 0.757,
+            "key": 10,
+            "loudness": -12.351,
+            "mode": 0,
+            "speechiness": 0.0496,
+            "acousticness": 0.00559,
+            "instrumentalness": 0.0509,
+            "liveness": 0.134,
+            "valence": 0.643,
+            "tempo": 125.209,
+            "type": "audio_features",
+            "id": "4npQqHOi5Zxxyw1oarSivu",
+            "uri": "spotify:track:4npQqHOi5Zxxyw1oarSivu",
+            "track_href": "https://api.spotify.com/v1/tracks/4npQqHOi5Zxxyw1oarSivu",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/4npQqHOi5Zxxyw1oarSivu",
+            "duration_ms": 218840,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "5PZTuGuAEb9tavQklihOaR",
+         "name": "Something So Strong",
+         "popularity": 0,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+               },
+               "href": "https://api.spotify.com/v1/artists/7ohlPA8dRBtCf92zaZCaaB",
+               "id": "7ohlPA8dRBtCf92zaZCaaB",
+               "name": "Crowded House",
+               "type": "artist",
+               "uri": "spotify:artist:7ohlPA8dRBtCf92zaZCaaB"
+            }
+         ],
+         "features": {
+            "danceability": 0.578,
+            "energy": 0.673,
+            "key": 7,
+            "loudness": -13.156,
+            "mode": 1,
+            "speechiness": 0.0446,
+            "acousticness": 0.0968,
+            "instrumentalness": 8.33e-05,
+            "liveness": 0.0927,
+            "valence": 0.721,
+            "tempo": 119.786,
+            "type": "audio_features",
+            "id": "5PZTuGuAEb9tavQklihOaR",
+            "uri": "spotify:track:5PZTuGuAEb9tavQklihOaR",
+            "track_href": "https://api.spotify.com/v1/tracks/5PZTuGuAEb9tavQklihOaR",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5PZTuGuAEb9tavQklihOaR",
+            "duration_ms": 171573,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "2xEhTQcmrRNaxfUOvSAgXo",
+         "name": "Heat Of The Night",
+         "popularity": 38,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+               },
+               "href": "https://api.spotify.com/v1/artists/3Z02hBLubJxuFJfhacLSDc",
+               "id": "3Z02hBLubJxuFJfhacLSDc",
+               "name": "Bryan Adams",
+               "type": "artist",
+               "uri": "spotify:artist:3Z02hBLubJxuFJfhacLSDc"
+            }
+         ],
+         "features": {
+            "danceability": 0.486,
+            "energy": 0.853,
+            "key": 4,
+            "loudness": -11.836,
+            "mode": 0,
+            "speechiness": 0.0297,
+            "acousticness": 0.257,
+            "instrumentalness": 0.000824,
+            "liveness": 0.355,
+            "valence": 0.726,
+            "tempo": 173.85,
+            "type": "audio_features",
+            "id": "2xEhTQcmrRNaxfUOvSAgXo",
+            "uri": "spotify:track:2xEhTQcmrRNaxfUOvSAgXo",
+            "track_href": "https://api.spotify.com/v1/tracks/2xEhTQcmrRNaxfUOvSAgXo",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2xEhTQcmrRNaxfUOvSAgXo",
+            "duration_ms": 307000,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "2EnZ9bpgUtLgKkRFehp8xS",
+         "name": "Nothing's Gonna Change My Love for You",
+         "popularity": 0,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0bByarMN8ryEFQsRo6iCUN"
+               },
+               "href": "https://api.spotify.com/v1/artists/0bByarMN8ryEFQsRo6iCUN",
+               "id": "0bByarMN8ryEFQsRo6iCUN",
+               "name": "Glenn Medeiros",
+               "type": "artist",
+               "uri": "spotify:artist:0bByarMN8ryEFQsRo6iCUN"
+            }
+         ],
+         "features": {
+            "danceability": 0.445,
+            "energy": 0.378,
+            "key": 1,
+            "loudness": -15.257,
+            "mode": 1,
+            "speechiness": 0.0381,
+            "acousticness": 0.627,
+            "instrumentalness": 0,
+            "liveness": 0.0758,
+            "valence": 0.406,
+            "tempo": 142.061,
+            "type": "audio_features",
+            "id": "2EnZ9bpgUtLgKkRFehp8xS",
+            "uri": "spotify:track:2EnZ9bpgUtLgKkRFehp8xS",
+            "track_href": "https://api.spotify.com/v1/tracks/2EnZ9bpgUtLgKkRFehp8xS",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2EnZ9bpgUtLgKkRFehp8xS",
+            "duration_ms": 232067,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "59UszzoXS3a8USLFef9rPe",
+         "name": "Brilliant Disguise",
+         "popularity": 0,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+               },
+               "href": "https://api.spotify.com/v1/artists/3eqjTLE0HfPfh78zjh6TqT",
+               "id": "3eqjTLE0HfPfh78zjh6TqT",
+               "name": "Bruce Springsteen",
+               "type": "artist",
+               "uri": "spotify:artist:3eqjTLE0HfPfh78zjh6TqT"
+            }
+         ],
+         "features": {
+            "danceability": 0.703,
+            "energy": 0.726,
+            "key": 9,
+            "loudness": -12.438,
+            "mode": 1,
+            "speechiness": 0.029,
+            "acousticness": 0.152,
+            "instrumentalness": 1.45e-06,
+            "liveness": 0.0319,
+            "valence": 0.949,
+            "tempo": 126.353,
+            "type": "audio_features",
+            "id": "59UszzoXS3a8USLFef9rPe",
+            "uri": "spotify:track:59UszzoXS3a8USLFef9rPe",
+            "track_href": "https://api.spotify.com/v1/tracks/59UszzoXS3a8USLFef9rPe",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/59UszzoXS3a8USLFef9rPe",
+            "duration_ms": 254840,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "325dZlvVCg3ckKt4oZR9ud",
+         "name": "Just To See Her",
+         "popularity": 0,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8"
+               },
+               "href": "https://api.spotify.com/v1/artists/0h9smro0z3HqUbD94jotU8",
+               "id": "0h9smro0z3HqUbD94jotU8",
+               "name": "Smokey Robinson",
+               "type": "artist",
+               "uri": "spotify:artist:0h9smro0z3HqUbD94jotU8"
+            }
+         ],
+         "features": {
+            "danceability": 0.825,
+            "energy": 0.551,
+            "key": 4,
+            "loudness": -9.551,
+            "mode": 0,
+            "speechiness": 0.0327,
+            "acousticness": 0.145,
+            "instrumentalness": 0,
+            "liveness": 0.038,
+            "valence": 0.875,
+            "tempo": 109.15,
+            "type": "audio_features",
+            "id": "325dZlvVCg3ckKt4oZR9ud",
+            "uri": "spotify:track:325dZlvVCg3ckKt4oZR9ud",
+            "track_href": "https://api.spotify.com/v1/tracks/325dZlvVCg3ckKt4oZR9ud",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/325dZlvVCg3ckKt4oZR9ud",
+            "duration_ms": 245160,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "2G7ttyDosjWmunOYsNRm0C",
+         "name": "Who Will You Run To",
+         "popularity": 46,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+               },
+               "href": "https://api.spotify.com/v1/artists/34jw2BbxjoYalTp8cJFCPv",
+               "id": "34jw2BbxjoYalTp8cJFCPv",
+               "name": "Heart",
+               "type": "artist",
+               "uri": "spotify:artist:34jw2BbxjoYalTp8cJFCPv"
+            }
+         ],
+         "features": {
+            "danceability": 0.601,
+            "energy": 0.73,
+            "key": 2,
+            "loudness": -11.103,
+            "mode": 1,
+            "speechiness": 0.0361,
+            "acousticness": 0.203,
+            "instrumentalness": 2e-05,
+            "liveness": 0.107,
+            "valence": 0.684,
+            "tempo": 116.313,
+            "type": "audio_features",
+            "id": "2G7ttyDosjWmunOYsNRm0C",
+            "uri": "spotify:track:2G7ttyDosjWmunOYsNRm0C",
+            "track_href": "https://api.spotify.com/v1/tracks/2G7ttyDosjWmunOYsNRm0C",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2G7ttyDosjWmunOYsNRm0C",
+            "duration_ms": 246400,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "5GIyNhDmHO5oUI2CWyKQ2e",
+         "name": "Respect Yourself",
+         "popularity": 19,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6UpHyjBIGRSHpna0GQ68bH"
+               },
+               "href": "https://api.spotify.com/v1/artists/6UpHyjBIGRSHpna0GQ68bH",
+               "id": "6UpHyjBIGRSHpna0GQ68bH",
+               "name": "Bruce Willis",
+               "type": "artist",
+               "uri": "spotify:artist:6UpHyjBIGRSHpna0GQ68bH"
+            }
+         ],
+         "features": {
+            "danceability": 0.726,
+            "energy": 0.739,
+            "key": 7,
+            "loudness": -7.115,
+            "mode": 0,
+            "speechiness": 0.033,
+            "acousticness": 0.0725,
+            "instrumentalness": 1.48e-05,
+            "liveness": 0.292,
+            "valence": 0.539,
+            "tempo": 118.836,
+            "type": "audio_features",
+            "id": "5GIyNhDmHO5oUI2CWyKQ2e",
+            "uri": "spotify:track:5GIyNhDmHO5oUI2CWyKQ2e",
+            "track_href": "https://api.spotify.com/v1/tracks/5GIyNhDmHO5oUI2CWyKQ2e",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5GIyNhDmHO5oUI2CWyKQ2e",
+            "duration_ms": 231560,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "79FDwDeZ43rAN02oX8MynI",
+         "name": "Cross My Broken Heart",
+         "popularity": 14,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3AHq6rutf72JF0ul8GB6G2"
+               },
+               "href": "https://api.spotify.com/v1/artists/3AHq6rutf72JF0ul8GB6G2",
+               "id": "3AHq6rutf72JF0ul8GB6G2",
+               "name": "The Jets",
+               "type": "artist",
+               "uri": "spotify:artist:3AHq6rutf72JF0ul8GB6G2"
+            }
+         ],
+         "features": {
+            "danceability": 0.858,
+            "energy": 0.679,
+            "key": 9,
+            "loudness": -7.246,
+            "mode": 0,
+            "speechiness": 0.0392,
+            "acousticness": 0.15,
+            "instrumentalness": 1.33e-06,
+            "liveness": 0.0381,
+            "valence": 0.964,
+            "tempo": 117.683,
+            "type": "audio_features",
+            "id": "79FDwDeZ43rAN02oX8MynI",
+            "uri": "spotify:track:79FDwDeZ43rAN02oX8MynI",
+            "track_href": "https://api.spotify.com/v1/tracks/79FDwDeZ43rAN02oX8MynI",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/79FDwDeZ43rAN02oX8MynI",
+            "duration_ms": 247880,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "6OAdWLeCbIyQLpSjma2UjL",
+         "name": "Victory",
+         "popularity": 0,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+               },
+               "href": "https://api.spotify.com/v1/artists/3VNITwohbvU5Wuy5PC6dsI",
+               "id": "3VNITwohbvU5Wuy5PC6dsI",
+               "name": "Kool & The Gang",
+               "type": "artist",
+               "uri": "spotify:artist:3VNITwohbvU5Wuy5PC6dsI"
+            }
+         ],
+         "features": {
+            "danceability": 0.667,
+            "energy": 0.786,
+            "key": 10,
+            "loudness": -10.097,
+            "mode": 0,
+            "speechiness": 0.0642,
+            "acousticness": 0.176,
+            "instrumentalness": 9.43e-05,
+            "liveness": 0.346,
+            "valence": 0.787,
+            "tempo": 123.42,
+            "type": "audio_features",
+            "id": "6OAdWLeCbIyQLpSjma2UjL",
+            "uri": "spotify:track:6OAdWLeCbIyQLpSjma2UjL",
+            "track_href": "https://api.spotify.com/v1/tracks/6OAdWLeCbIyQLpSjma2UjL",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6OAdWLeCbIyQLpSjma2UjL",
+            "duration_ms": 300133,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "6Wiamk8BAAP50gAAJopsy2",
+         "name": "Don't Get Me Wrong - 2007 Remaster",
+         "popularity": 65,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+               },
+               "href": "https://api.spotify.com/v1/artists/0GByy3DcfbQwDvXGCWmzv9",
+               "id": "0GByy3DcfbQwDvXGCWmzv9",
+               "name": "Pretenders",
+               "type": "artist",
+               "uri": "spotify:artist:0GByy3DcfbQwDvXGCWmzv9"
+            }
+         ],
+         "features": {
+            "danceability": 0.46,
+            "energy": 0.932,
+            "key": 0,
+            "loudness": -6.264,
+            "mode": 1,
+            "speechiness": 0.0468,
+            "acousticness": 0.139,
+            "instrumentalness": 0.00504,
+            "liveness": 0.114,
+            "valence": 0.849,
+            "tempo": 203.617,
+            "type": "audio_features",
+            "id": "6Wiamk8BAAP50gAAJopsy2",
+            "uri": "spotify:track:6Wiamk8BAAP50gAAJopsy2",
+            "track_href": "https://api.spotify.com/v1/tracks/6Wiamk8BAAP50gAAJopsy2",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6Wiamk8BAAP50gAAJopsy2",
+            "duration_ms": 227463,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "2GdWNthCTVMBnuw59WyIci",
+         "name": "Doing It All For My Baby",
+         "popularity": 37,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+               },
+               "href": "https://api.spotify.com/v1/artists/7A9yZMTrFZcgEWAX2kBfK6",
+               "id": "7A9yZMTrFZcgEWAX2kBfK6",
+               "name": "Huey Lewis & The News",
+               "type": "artist",
+               "uri": "spotify:artist:7A9yZMTrFZcgEWAX2kBfK6"
+            }
+         ],
+         "features": {
+            "danceability": 0.638,
+            "energy": 0.785,
+            "key": 0,
+            "loudness": -6.143,
+            "mode": 1,
+            "speechiness": 0.0297,
+            "acousticness": 0.206,
+            "instrumentalness": 0,
+            "liveness": 0.105,
+            "valence": 0.751,
+            "tempo": 137.444,
+            "type": "audio_features",
+            "id": "2GdWNthCTVMBnuw59WyIci",
+            "uri": "spotify:track:2GdWNthCTVMBnuw59WyIci",
+            "track_href": "https://api.spotify.com/v1/tracks/2GdWNthCTVMBnuw59WyIci",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2GdWNthCTVMBnuw59WyIci",
+            "duration_ms": 219507,
+            "time_signature": 3
+         }
+      },
+      {
+         "id": "3UiuKZWtgXjeAfnfGqIeu0",
+         "name": "Right On Track",
+         "popularity": 45,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/4nsuck0htFQjVl6OCKVzRb"
+               },
+               "href": "https://api.spotify.com/v1/artists/4nsuck0htFQjVl6OCKVzRb",
+               "id": "4nsuck0htFQjVl6OCKVzRb",
+               "name": "Breakfast Club",
+               "type": "artist",
+               "uri": "spotify:artist:4nsuck0htFQjVl6OCKVzRb"
+            }
+         ],
+         "features": {
+            "danceability": 0.763,
+            "energy": 0.824,
+            "key": 1,
+            "loudness": -10.054,
+            "mode": 0,
+            "speechiness": 0.033,
+            "acousticness": 0.0613,
+            "instrumentalness": 4.45e-05,
+            "liveness": 0.0226,
+            "valence": 0.947,
+            "tempo": 116.975,
+            "type": "audio_features",
+            "id": "3UiuKZWtgXjeAfnfGqIeu0",
+            "uri": "spotify:track:3UiuKZWtgXjeAfnfGqIeu0",
+            "track_href": "https://api.spotify.com/v1/tracks/3UiuKZWtgXjeAfnfGqIeu0",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/3UiuKZWtgXjeAfnfGqIeu0",
+            "duration_ms": 256947,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "2fNx5nTZGjniOMT5FMcTyE",
+         "name": "Ballerina Girl",
+         "popularity": 49,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+               },
+               "href": "https://api.spotify.com/v1/artists/3gMaNLQm7D9MornNILzdSl",
+               "id": "3gMaNLQm7D9MornNILzdSl",
+               "name": "Lionel Richie",
+               "type": "artist",
+               "uri": "spotify:artist:3gMaNLQm7D9MornNILzdSl"
+            }
+         ],
+         "features": {
+            "danceability": 0.388,
+            "energy": 0.286,
+            "key": 0,
+            "loudness": -13.287,
+            "mode": 1,
+            "speechiness": 0.0347,
+            "acousticness": 0.781,
+            "instrumentalness": 0,
+            "liveness": 0.0647,
+            "valence": 0.26,
+            "tempo": 200.733,
+            "type": "audio_features",
+            "id": "2fNx5nTZGjniOMT5FMcTyE",
+            "uri": "spotify:track:2fNx5nTZGjniOMT5FMcTyE",
+            "track_href": "https://api.spotify.com/v1/tracks/2fNx5nTZGjniOMT5FMcTyE",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/2fNx5nTZGjniOMT5FMcTyE",
+            "duration_ms": 217827,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "5CdX4HXMRxyldTVxXDrzSA",
+         "name": "Meet Me Half Way - From \"Over The Top\" Soundtrack",
+         "popularity": 57,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+               },
+               "href": "https://api.spotify.com/v1/artists/3Y3xIwWyq5wnNHPp5gPjOW",
+               "id": "3Y3xIwWyq5wnNHPp5gPjOW",
+               "name": "Kenny Loggins",
+               "type": "artist",
+               "uri": "spotify:artist:3Y3xIwWyq5wnNHPp5gPjOW"
+            }
+         ],
+         "features": {
+            "danceability": 0.635,
+            "energy": 0.395,
+            "key": 4,
+            "loudness": -13.005,
+            "mode": 1,
+            "speechiness": 0.0266,
+            "acousticness": 0.0929,
+            "instrumentalness": 0,
+            "liveness": 0.27,
+            "valence": 0.334,
+            "tempo": 117.096,
+            "type": "audio_features",
+            "id": "5CdX4HXMRxyldTVxXDrzSA",
+            "uri": "spotify:track:5CdX4HXMRxyldTVxXDrzSA",
+            "track_href": "https://api.spotify.com/v1/tracks/5CdX4HXMRxyldTVxXDrzSA",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5CdX4HXMRxyldTVxXDrzSA",
+            "duration_ms": 219533,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "0rPImSYezi40zBhwvIvTrr",
+         "name": "I've Been In Love Before - Edit",
+         "popularity": 54,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i"
+               },
+               "href": "https://api.spotify.com/v1/artists/3cniTumSiUysiPWXapGx1i",
+               "id": "3cniTumSiUysiPWXapGx1i",
+               "name": "Cutting Crew",
+               "type": "artist",
+               "uri": "spotify:artist:3cniTumSiUysiPWXapGx1i"
+            }
+         ],
+         "features": {
+            "danceability": 0.52,
+            "energy": 0.568,
+            "key": 2,
+            "loudness": -13.02,
+            "mode": 1,
+            "speechiness": 0.0264,
+            "acousticness": 0.0669,
+            "instrumentalness": 0.0109,
+            "liveness": 0.695,
+            "valence": 0.844,
+            "tempo": 145.86,
+            "type": "audio_features",
+            "id": "0rPImSYezi40zBhwvIvTrr",
+            "uri": "spotify:track:0rPImSYezi40zBhwvIvTrr",
+            "track_href": "https://api.spotify.com/v1/tracks/0rPImSYezi40zBhwvIvTrr",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/0rPImSYezi40zBhwvIvTrr",
+            "duration_ms": 242800,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "5NLuC70kZQv8q34QyQa1DP",
+         "name": "Fight For Your Right",
+         "popularity": 70,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+               },
+               "href": "https://api.spotify.com/v1/artists/03r4iKL2g2442PT9n2UKsx",
+               "id": "03r4iKL2g2442PT9n2UKsx",
+               "name": "Beastie Boys",
+               "type": "artist",
+               "uri": "spotify:artist:03r4iKL2g2442PT9n2UKsx"
+            }
+         ],
+         "features": {
+            "danceability": 0.503,
+            "energy": 0.858,
+            "key": 8,
+            "loudness": -6.296,
+            "mode": 1,
+            "speechiness": 0.0657,
+            "acousticness": 0.00757,
+            "instrumentalness": 0.00234,
+            "liveness": 0.0803,
+            "valence": 0.419,
+            "tempo": 133.615,
+            "type": "audio_features",
+            "id": "5NLuC70kZQv8q34QyQa1DP",
+            "uri": "spotify:track:5NLuC70kZQv8q34QyQa1DP",
+            "track_href": "https://api.spotify.com/v1/tracks/5NLuC70kZQv8q34QyQa1DP",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/5NLuC70kZQv8q34QyQa1DP",
+            "duration_ms": 208653,
+            "time_signature": 5
+         }
+      },
+      {
+         "id": "6UfLQNkw9a9tOVVqsev9vA",
+         "name": "Funky Town",
+         "popularity": 37,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/0FDW3axHactZo8HU0OnNVy"
+               },
+               "href": "https://api.spotify.com/v1/artists/0FDW3axHactZo8HU0OnNVy",
+               "id": "0FDW3axHactZo8HU0OnNVy",
+               "name": "Pseudo Echo",
+               "type": "artist",
+               "uri": "spotify:artist:0FDW3axHactZo8HU0OnNVy"
+            }
+         ],
+         "features": {
+            "danceability": 0.645,
+            "energy": 0.775,
+            "key": 9,
+            "loudness": -5.077,
+            "mode": 1,
+            "speechiness": 0.0327,
+            "acousticness": 0.0534,
+            "instrumentalness": 9.84e-05,
+            "liveness": 0.336,
+            "valence": 0.84,
+            "tempo": 128.015,
+            "type": "audio_features",
+            "id": "6UfLQNkw9a9tOVVqsev9vA",
+            "uri": "spotify:track:6UfLQNkw9a9tOVVqsev9vA",
+            "track_href": "https://api.spotify.com/v1/tracks/6UfLQNkw9a9tOVVqsev9vA",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6UfLQNkw9a9tOVVqsev9vA",
+            "duration_ms": 291213,
+            "time_signature": 4
+         }
+      },
+      {
+         "id": "6JYPFIVXYL3MkKfEfRSovu",
+         "name": "Love You Down",
+         "popularity": 42,
+         "artists": [
+            {
+               "external_urls": {
+                  "spotify": "https://open.spotify.com/artist/6h29EZDlc2NTvmCUe4yoXV"
+               },
+               "href": "https://api.spotify.com/v1/artists/6h29EZDlc2NTvmCUe4yoXV",
+               "id": "6h29EZDlc2NTvmCUe4yoXV",
+               "name": "Ready For The World",
+               "type": "artist",
+               "uri": "spotify:artist:6h29EZDlc2NTvmCUe4yoXV"
+            }
+         ],
+         "features": {
+            "danceability": 0.694,
+            "energy": 0.465,
+            "key": 4,
+            "loudness": -6.911,
+            "mode": 0,
+            "speechiness": 0.0409,
+            "acousticness": 0.137,
+            "instrumentalness": 0.00218,
+            "liveness": 0.0735,
+            "valence": 0.267,
+            "tempo": 129.436,
+            "type": "audio_features",
+            "id": "6JYPFIVXYL3MkKfEfRSovu",
+            "uri": "spotify:track:6JYPFIVXYL3MkKfEfRSovu",
+            "track_href": "https://api.spotify.com/v1/tracks/6JYPFIVXYL3MkKfEfRSovu",
+            "analysis_url": "https://api.spotify.com/v1/audio-analysis/6JYPFIVXYL3MkKfEfRSovu",
+            "duration_ms": 391210,
+            "time_signature": 4
+         }
+      }
+   ]
+}
