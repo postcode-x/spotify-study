@@ -162,7 +162,6 @@ result.then(function (val) {
                         font: {
                             size: 10
                         },
-                        stepSize: 0.25,
                         callback: function (value, index, values) {
                             if ((value == 0) || (value == 1)) {
                                 return modeLabels[value];
