@@ -1,7 +1,7 @@
 result.then(function (val) {
 
-    let acousticness = [];
-    let acousticnessAverage = [];
+    let liveness = [];
+    let livenessAverage = [];
 
     for (let i = 0; i < val.length; i++) {
 
@@ -11,18 +11,18 @@ result.then(function (val) {
 
         for (let j = 0; j < val[i].data.length; j++) {
 
-            let featureValue = val[i].data[j].features.acousticness;
+            let featureValue = val[i].data[j].features.liveness;
 
             if (!repeatedList.includes(featureValue.toFixed(2)) & this.getRandomNumber(1, 100) > 75) {
 
                 repeatedList.push(featureValue.toFixed(2));
-                acousticness.push({
+                liveness.push({
                     'x': val[i].year,
                     'y': featureValue,
                     'artist': val[i].data[j].artists[0]['name'],
                     'song_name': val[i].data[j].name,
                     'song_id': val[i].data[j].id,
-                    'feature_name': 'Acousticness'
+                    'feature_name': 'Liveness'
                 });
 
             }
@@ -32,10 +32,10 @@ result.then(function (val) {
 
         }
 
-        acousticnessAverage.push({
+        livenessAverage.push({
             'x': val[i].year,
             'y': sum / counter,
-            'feature_name': 'Acousticness'
+            'feature_name': 'Liveness'
         });
 
     }
@@ -45,7 +45,7 @@ result.then(function (val) {
             {
                 label: 'Track',
                 type: 'scatter',
-                data: acousticness,
+                data: liveness,
                 borderColor: 'rgb(192, 214, 223)',
                 backgroundColor: 'rgb(192, 214, 223)',
                 pointRadius: 0.5, pointHoverRadius: 4
@@ -53,7 +53,7 @@ result.then(function (val) {
             {
                 label: 'Yearly Average',
                 type: 'line',
-                data: acousticnessAverage,
+                data: livenessAverage,
                 borderColor: 'rgb(255, 99, 132)',
                 backgroundColor: 'rgb(255, 99, 132)',
                 fill: false, pointRadius: 0.5, pointHoverRadius: 4, lineWidth: 2, tension: 0.25
